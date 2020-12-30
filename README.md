@@ -5,9 +5,9 @@
 ## How to use - Downloading the raw data from Partner Center Insights
 
 * Browse to the [Partner Center Insights](https://partner.microsoft.com/en-us/dashboard/partnerinsights/analytics/downloads?report=TrainingCompletions)
-* Select report type "Trainings", select timeframe "Lifetime", and select File extension "TSV"
+* Select report type "Trainings", select timeframe "Lifetime", and select either File extension "TSV" or "CSV" (both formats are supported)
 * Click the Generate button to create the report
-* Download the .TSV file via the link in the "Generated Reports" section
+* Download the .CSV/.TSV file via the link in the "Generated Reports" section
 * The script requires that you have Python installed, which can be downloaded [here](https://www.python.org/downloads/)
 
 ![](media/pci-training.png)
