@@ -2,20 +2,42 @@
 # Guy Gregory - guy.gregory@microsoft.com
 
 import pandas as pd
+import plotly.express as px
+import plotly
 import xlsxwriter
+import os
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 
 # Specify the location of the .tsv file which can be downloaded from Partner Center Insights:
 # https://partner.microsoft.com/en-us/dashboard/partnerinsights/analytics/downloads?report=TrainingCompletions
+
 inputfile = r"C:\CertRenew\Export_trainings_Lifetime_EXAMPLE_PLEASE_EDIT_THIS_FILENAME.tsv"
 
-# Specify the output location that you would like the final report to be saved.:
-outputfile = r"C:\CertRenew\Certification_Renewals_EXAMPLE_PLEASE_EDIT_THIS_FILENAME.xlsx"
+# Load the dataframe from the .csv or .tsv file
+name, ext = os.path.splitext(inputfile)
 
-# Load the dataframe from the TSV file
-#NB - At some point, support for CSV should be added, as the report can be downloaded in both TSV and CSV format
-dfl = pd.read_csv(inputfile, sep='\t', header=0)
+if ext.lower() == ".csv":
+    #print(".csv file")
+    dfl = pd.read_csv(inputfile, header=0)
+    
+elif ext.lower() == ".tsv":
+    #print(".tsv file")
+    dfl = pd.read_csv(inputfile, sep='\t', header=0)
+    
+else:
+    print("Not a valid file, please use Partner Skills Report - Trainings in either .csv or .tsv format")
+    quit()
+
+# Before we remove a bunch of columns, capture the partner name and MPN ID
+
+MPNId = dfl.loc[0].at['MPNId']
+PartnerName = dfl.loc[0].at['PartnerName']
+PartnerCityLocation = dfl.loc[0].at['PartnerCityLocation']
+PartnerCountryLocation = dfl.loc[0].at['PartnerCountryLocation']
+
+# Create a simplified version for the filename
+PartnerNameAlphaNumericOnly = ''.join(e for e in PartnerName if e.isalnum())
 
 # Remove unwanted columns
 trainingstable = dfl.drop(columns=["Month", "IcMCP", "MCPID", "MPNId", "PartnerName","PartnerCityLocation","PartnerCountryLocation"])
@@ -63,6 +85,10 @@ rbstable = rbstable[["TrainingActivityId", "TrainingTitle", "IndividualFirstName
 
 #Export to .xlsx
 
+# Specify the output location that you would like the final report to be saved.:
+outputfile = r"C:\CertRenew\Certification Renewals - " + PartnerNameAlphaNumericOnly + ".xlsx"
+#outputfile = r"C:\CertRenew\Certification_Renewals_EXAMPLE_PLEASE_EDIT_THIS_FILENAME.xlsx"
+
 # Create a Pandas Excel writer using XlsxWriter as the engine.
 writer = pd.ExcelWriter(outputfile, engine="xlsxwriter")
 
@@ -84,3 +110,40 @@ writer.save()
 
 # Use this for debugging if you need to output the certs to the console instead of Excel
 # print (rbstable.head(50))
+
+
+### Create and Save the HTML Report ###
+
+df = rbstable # Create a copy of the dataframe
+
+# Sort by date, and then reindex
+df = df.sort_values(by='CertRenewalWindowOpens')
+df = df.reset_index()
+
+# Assign Columns to variables
+tasks = df.index
+start = df['CertRenewalWindowOpens']
+finish = df['CertRenewalDeadline']
+
+# Create Gantt Chart
+fig = px.timeline(df, x_start=start, x_end=finish, y=tasks, title='Certification Renewal Windows', 
+
+hover_name=df['TrainingTitle'], 
+hover_data=[df['TrainingCompletionDateTime'], df['IndividualFirstName'], df['IndividualLastName'], df['Email'], df['CorpEmail'], df['TrainingActivityId']])
+
+# Hide the y axis
+fig.update_yaxes(title='y', visible=False, showticklabels=False)
+
+# Upade/Change Layout
+fig.update_yaxes(autorange='reversed')
+fig.update_layout(
+        title_font_size=42,
+        font_size=18,
+        title_font_family='Arial'
+        )
+
+# Interactive Gantt
+#fig = ff.create_gantt(df)
+
+# Save Graph and Export to HTML
+plotly.offline.plot(fig, filename='Certification Renewal - ' + PartnerNameAlphaNumericOnly + '.html')
