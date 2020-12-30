@@ -15,7 +15,7 @@
 ## How to use - Running the script
 
 * The script requires that you have Python installed, which can be downloaded [here](https://www.python.org/downloads/)
-* Required modules: [Pandas](https://pandas.pydata.org/) and [XlsxWriter](https://xlsxwriter.readthedocs.io/)
+* Required modules: [Pandas](https://pandas.pydata.org/), [XlsxWriter](https://xlsxwriter.readthedocs.io/), [Plotly, and Plotly Express](https://plotly.com/python/gantt/)
 * Download/clone the script, and amend the inputfile and outputfile variables to the appropriate folders on your computer
 * When running the .py script, there should be no console output
 * If the program is successful, a file will be generated at the location specified by outputfile
