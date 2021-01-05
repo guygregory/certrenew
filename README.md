@@ -16,16 +16,18 @@
 ## How to use - Running the script
 
 * The script requires that you have Python installed, which can be downloaded [here](https://www.python.org/downloads/)
-* Required modules: [Pandas](https://pandas.pydata.org/), [XlsxWriter](https://xlsxwriter.readthedocs.io/), [Plotly, and Plotly Express](https://plotly.com/python/gantt/)
-* Download/clone the script, and amend the inputfile and outputfile variables to the appropriate folders on your computer
-* When running the .py script, there should be no console output
-* If the program is successful, two files will be generated in the current folder (where the script is executed):
+* Required modules: [Pandas](https://pandas.pydata.org/), [XlsxWriter](https://xlsxwriter.readthedocs.io/), [Tkinter](https://docs.python.org/3/library/tkinter.html), [Plotly, and Plotly Express](https://plotly.com/python/gantt/)
+* Download/clone the script onto your local computer
+* When running the .py script, a File Open dialog box should appear, allowing you to select the CSV/TSV file
+* If the program is successful, two files will be generated in the current folder (where the script is executed)
 
-An Excel spreadsheet summary with a summary of the certifications, and the renewal windows:
+An Excel spreadsheet summary with a summary of the certifications, and the key dates for renewal:
 ![](media/excelsummary.png)
 
+A Gantt chart, showing a visual representation of the certification renewal windows for the organisation:
 ![](media/gantt.png)
 
+Mousing-over the individual certification will expose additional detail:
 ![](media/detail.png)
 
 ## Please note
