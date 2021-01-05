@@ -23,6 +23,8 @@
 
 ![](media/excelsummary.png)
 
+![](media/gantt.png)
+
 ![](media/detail.png)
 
 ## Please note
