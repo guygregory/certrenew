@@ -25,7 +25,7 @@ An Excel spreadsheet summary with a summary of the certifications, and the key d
 ![](media/excelsummary.png)
 
 A Gantt chart, showing a visual representation of the certification renewal windows for the organisation:
-![](media/gantt.png)
+![](media/ganttsummary.png)
 
 Mousing-over the individual certification will expose additional detail:
 ![](media/detail.png)
