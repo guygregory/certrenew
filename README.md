@@ -19,8 +19,9 @@
 * Required modules: [Pandas](https://pandas.pydata.org/), [XlsxWriter](https://xlsxwriter.readthedocs.io/), [Plotly, and Plotly Express](https://plotly.com/python/gantt/)
 * Download/clone the script, and amend the inputfile and outputfile variables to the appropriate folders on your computer
 * When running the .py script, there should be no console output
-* If the program is successful, a file will be generated at the location specified by outputfile
+* If the program is successful, two files will be generated in the current folder (where the script is executed):
 
+An Excel spreadsheet summary with a summary of the certifications, and the renewal windows:
 ![](media/excelsummary.png)
 
 ![](media/gantt.png)
