@@ -21,6 +21,10 @@
 * When running the .py script, there should be no console output
 * If the program is successful, a file will be generated at the location specified by outputfile
 
+![](media/excelsummary.png)
+
+![](media/detail.png)
+
 ## Please note
 
 * This is not an official Microsoft tool, and is maintained in my spare time
