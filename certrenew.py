@@ -6,13 +6,21 @@ import plotly.express as px
 import plotly
 import xlsxwriter
 import os
+from tkinter import *
+from tkinter import filedialog
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 
 # Specify the location of the .tsv file which can be downloaded from Partner Center Insights:
 # https://partner.microsoft.com/en-us/dashboard/partnerinsights/analytics/downloads?report=TrainingCompletions
 
-inputfile = r"C:\CertRenew\Export_trainings_Lifetime_EXAMPLE_PLEASE_EDIT_THIS_FILENAME.tsv"
+root = Tk()
+root.withdraw()
+root.filename = filedialog.askopenfilename(title="Please select the Trainings report from Partner Center Insights", filetypes=(("CSV files", "*.csv"),("TSV files", "*.tsv"), ("All files", "*.*")) )
+inputfile = root.filename
+
+# Hardcoded inputfile, will remove when open dialog works
+# inputfile = r"C:\CertRenew\Export_trainings_Lifetime_EXAMPLE_PLEASE_EDIT_THIS_FILENAME.tsv"
 
 # Load the dataframe from the .csv or .tsv file
 name, ext = os.path.splitext(inputfile)
@@ -63,14 +71,29 @@ rbstable["TrainingCompletionDateTime"] = pd.to_datetime(rbstable["TrainingComple
 # Convert value to date format
 rbstable["TrainingCompletionDateOnly"] = pd.to_datetime(rbstable["TrainingCompletionDateTime"]).dt.date
 
-# NB - the original cutoff was certs that expired 'before 31st December 2020', but that was later revised to 'before 30th June 2021' when we announced certifcation renewals
-# https://techcommunity.microsoft.com/t5/microsoft-learn-blog/an-important-update-on-microsoft-training-and-certification/ba-p/1489671
-extensiondatecutoff = datetime(2019, 7, 1)
 
-# Use this for debugging, it will add a column which will show if a cert is eligible for extension (True/False)
-# rbstable["EligibleForExtension"] = rbstable["TrainingCompletionDateTime"].apply(lambda x: True if x < extensiondatecutoff else False)
+# Initial certification validity = 2 years, and are subject to two extensions:
+#
+#                           Start Date      End Date            Extension
+# March 2020 extension      March 26 2020   December 31 2020    6 months
+# November 2020 extension   January 1 2021	June 30 2021        6 months
 
-rbstable["CertRenewalDeadlineDateTime"] = rbstable["TrainingCompletionDateTime"].apply(lambda x: x + relativedelta(months=30) if x < extensiondatecutoff else x + relativedelta(months=24))
+# Cert Completion Date              Years                       Notes
+# July 1 2018 – December 31 2018    3       Certs in this window get both 6 month extensions
+# January 1 2019 – June 30 2019	    2.5     These certs would get the November 2020 extension
+# August 1 2019 – now	            2       No extensions for these certs
+
+ext1start = datetime(2020, 3, 25)
+ext1end = datetime(2021, 1, 1)
+ext2start = datetime(2020, 12, 31)
+ext2end = datetime(2021, 7, 1)
+earliest = datetime(2000, 1, 1)
+
+rbstable["CertRenewalDeadlineDateTime"] = rbstable["TrainingCompletionDateTime"]
+
+rbstable["CertRenewalDeadlineDateTime"] = rbstable["CertRenewalDeadlineDateTime"].apply(lambda x: x + relativedelta(months=24) if x > earliest else x + relativedelta(months=0))
+rbstable["CertRenewalDeadlineDateTime"] = rbstable["CertRenewalDeadlineDateTime"].apply(lambda x: x + relativedelta(months=6) if ext1start < x < ext1end else x + relativedelta(months=0))
+rbstable["CertRenewalDeadlineDateTime"] = rbstable["CertRenewalDeadlineDateTime"].apply(lambda x: x + relativedelta(months=6) if ext2start < x < ext2end else x + relativedelta(months=0))
 
 rbstable["CertRenewalDeadline"] = pd.to_datetime(rbstable["CertRenewalDeadlineDateTime"]).dt.date
 
@@ -85,9 +108,8 @@ rbstable = rbstable[["TrainingActivityId", "TrainingTitle", "IndividualFirstName
 
 #Export to .xlsx
 
-# Specify the output location that you would like the final report to be saved.:
-outputfile = r"C:\CertRenew\Certification Renewals - " + PartnerNameAlphaNumericOnly + ".xlsx"
-#outputfile = r"C:\CertRenew\Certification_Renewals_EXAMPLE_PLEASE_EDIT_THIS_FILENAME.xlsx"
+# Specify the output filename for the Excel spreadsheet.:
+outputfile = "Certification Renewals - " + PartnerNameAlphaNumericOnly + ".xlsx"
 
 # Create a Pandas Excel writer using XlsxWriter as the engine.
 writer = pd.ExcelWriter(outputfile, engine="xlsxwriter")
@@ -126,7 +148,7 @@ start = df['CertRenewalWindowOpens']
 finish = df['CertRenewalDeadline']
 
 # Create Gantt Chart
-fig = px.timeline(df, x_start=start, x_end=finish, y=tasks, title='Certification Renewal Windows', 
+fig = px.timeline(df, x_start=start, x_end=finish, y=tasks, title='Microsoft Certification Renewal Insights - ' + PartnerName + " (" + str(MPNId) + ")", 
 
 hover_name=df['TrainingTitle'], 
 hover_data=[df['TrainingCompletionDateTime'], df['IndividualFirstName'], df['IndividualLastName'], df['Email'], df['CorpEmail'], df['TrainingActivityId']])
@@ -137,13 +159,14 @@ fig.update_yaxes(title='y', visible=False, showticklabels=False)
 # Upade/Change Layout
 fig.update_yaxes(autorange='reversed')
 fig.update_layout(
-        title_font_size=42,
+        title_font_size=36,
         font_size=18,
-        title_font_family='Arial'
+        title_font_family='Helvetica'
         )
 
 # Interactive Gantt
 #fig = ff.create_gantt(df)
 
 # Save Graph and Export to HTML
-plotly.offline.plot(fig, filename='Certification Renewal - ' + PartnerNameAlphaNumericOnly + '.html')
+plotly.offline.plot(fig, filename='Certification Renewals - ' + PartnerNameAlphaNumericOnly + '.html')
+#plotly.io.write_html(fig, file='Certification Renewals - ' + PartnerNameAlphaNumericOnly + '.html', auto_open=False)
