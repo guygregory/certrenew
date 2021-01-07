@@ -24,10 +24,10 @@ This [Certification Renewal Report](https://aka.ms/certrenew) allows partner adm
 * If the program is successful, two files will be generated in the current folder (where the script is executed)
 
 An Excel spreadsheet summary with a summary of the certifications, and the key dates for renewal:
-![](media/excelsummary.png)
+![](media/excelsummary2.png)
 
 A Gantt chart, showing a visual representation of the certification renewal windows for the organisation:
-![](media/ganttsummary.png)
+![](media/ganttsummary2.png)
 
 Mousing-over the individual certification will expose additional detail:
 ![](media/detail.png)
