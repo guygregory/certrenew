@@ -1,3 +1,7 @@
+# Download the latest version!
+
+[Version 0.2 beta | Self-extracting .exe installer | Windows x64](https://github.com/guygregory/certrenew/releases/download/v0.2-beta/CertRenewInstaller.exe)
+
 # Certification Renewal Report for Partners
 
 In February 2021, Microsoft will introduce a new approach to help learners stay current with their certifications, please see the public announcement [here](https://aka.ms/CertRenewalBlog).
