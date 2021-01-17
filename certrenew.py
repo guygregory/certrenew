@@ -4,7 +4,6 @@
 import pandas as pd
 import plotly.express as px
 import plotly
-import plotly.figure_factory as ff 
 import xlsxwriter
 import os
 from tkinter import *
@@ -32,11 +31,9 @@ inputfile = root.filename
 name, ext = os.path.splitext(inputfile)
 
 if ext.lower() == ".csv":
-    #print(".csv file")
     dfl = pd.read_csv(inputfile, header=0)
     
 elif ext.lower() == ".tsv":
-    #print(".tsv file")
     dfl = pd.read_csv(inputfile, sep='\t', header=0)
     
 else:
@@ -123,8 +120,7 @@ writer = pd.ExcelWriter(outputfile, engine="xlsxwriter")
 # Convert the dataframe to an XlsxWriter Excel object.
 rbstable.to_excel(writer, sheet_name="Sheet1", index=False)
 
-# Get the xlsxwriter workbook and worksheet objects.
-workbook  = writer.book
+# Get the xlsxwriter worksheet object
 worksheet = writer.sheets['Sheet1']
 
 # Set the column widths in Sheet1
@@ -135,10 +131,6 @@ worksheet.set_column('G:I', 27)
 
 # Close the Pandas Excel writer and output the Excel file.
 writer.save()
-
-# Use this for debugging if you need to output the certs to the console instead of Excel
-# print (rbstable.head(50))
-
 
 ### Create and Save the HTML Report ###
 
@@ -176,9 +168,5 @@ fig.update_layout(
         title_font_family='Helvetica'
         )
 
-# Interactive Gantt
-#fig = ff.create_gantt(df)
-
 # Save Graph and Export to HTML
 plotly.offline.plot(fig, filename='Certification Renewals - ' + PartnerNameAlphaNumericOnly + '.html')
-#plotly.io.write_html(fig, file='Certification Renewals - ' + PartnerNameAlphaNumericOnly + '.html', auto_open=False)
