@@ -1,6 +1,6 @@
 # Download the latest version!
 
-[CertRenewInstaller.exe | Version 0.2 beta | Self-extracting .exe installer | Windows x64](https://github.com/guygregory/certrenew/releases/download/v0.2-beta/CertRenewInstaller.exe)
+[CertRenewInstaller.exe | Version 0.2 beta | Self-extracting .exe installer | Windows x64](https://github.com/guygregory/certrenew/releases/latest/download/CertRenewInstaller.exe)
 
 # Certification Renewal Report for Partners
 
@@ -15,22 +15,30 @@ This [Certification Renewal Report](https://aka.ms/certrenew) allows partner adm
 * Select report type "Trainings", select timeframe "Lifetime", and select either File extension "TSV" or "CSV" (both formats are supported)
 * Click the Generate button to create the report
 * Download the .CSV/.TSV file via the link in the "Generated Reports" section
-* The script requires that you have Python installed, which can be downloaded [here](https://www.python.org/downloads/)
 
 ![](media/pci-training.png)
 
-## How to use - Running the script
 
+
+## How to use - Running the script
+<!--
 * The script requires that you have Python installed, which can be downloaded [here](https://www.python.org/downloads/)
 * Required modules: [Pandas](https://pandas.pydata.org/), [XlsxWriter](https://xlsxwriter.readthedocs.io/), [Tkinter](https://docs.python.org/3/library/tkinter.html), [Plotly, and Plotly Express](https://plotly.com/python/gantt/)
 * Download/clone the script onto your local computer
 * When running the .py script, a File Open dialog box should appear, allowing you to select the CSV/TSV file
-* If the program is successful, two files will be generated in the current folder (where the script is executed)
+-->
+
+* Download the latest self-extracting installer from [here](https://github.com/guygregory/certrenew/releases/latest/download/CertRenewInstaller.exe)
+* Open the installer, and extract the files (a new folder called 'CertRenew' will be created)
+* In the CertRenew folder, run the certrenew.exe executable
+* When prompted to select a file, choose the .CSV or .TSV file that you downloaded in the previous section
+* If you want to try the program with test data, there are sample files in the /CertRenew/Example folder
+* If the program is successful, two files will be generated in the CertRenew folder:
 
 An Excel spreadsheet summary with a summary of the certifications, and the key dates for renewal:
 ![](media/excelsummary2.png)
 
-A Gantt chart, showing a visual representation of the certification renewal windows for the organisation:
+A Gantt chart (which will auto-open), showing a visual representation of the certification renewal windows for the organisation:
 ![](media/ganttsummary2.png)
 
 Mousing-over the individual certification will expose additional detail:
