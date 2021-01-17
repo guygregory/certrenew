@@ -1,6 +1,6 @@
 # Download the latest version!
 
-[Version 0.2 beta | Self-extracting .exe installer | Windows x64](https://github.com/guygregory/certrenew/releases/download/v0.2-beta/CertRenewInstaller.exe)
+[CertRenewInstaller.exe | Version 0.2 beta | Self-extracting .exe installer | Windows x64](https://github.com/guygregory/certrenew/releases/download/v0.2-beta/CertRenewInstaller.exe)
 
 # Certification Renewal Report for Partners
 
