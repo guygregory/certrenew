@@ -29,9 +29,12 @@ This [Certification Renewal Report](https://aka.ms/certrenew) allows partner adm
 -->
 
 * Download the latest self-extracting installer from [here](https://github.com/guygregory/certrenew/releases/latest/download/CertRenewInstaller.exe)
-* Open the installer, and extract the files (a new folder called 'CertRenew' will be created)
+* Open the installer, and extract the files (a new folder called 'CertRenew' will be created in the 'Extract to' path)
+![](media/7zip.png)
 * In the CertRenew folder, run the certrenew.exe executable
+![](media/folder.png)
 * When prompted to select a file, choose the .CSV or .TSV file that you downloaded in the previous section
+![](media/opendialog.png)
 * If you want to try the program with test data, there are sample files in the /CertRenew/Example folder
 * If the program is successful, two files will be generated in the CertRenew folder:
 
