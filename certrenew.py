@@ -4,23 +4,29 @@
 import pandas as pd
 import plotly.express as px
 import plotly
+import plotly.figure_factory as ff 
 import xlsxwriter
 import os
 from tkinter import *
 from tkinter import filedialog
+from tkinter import messagebox
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 
-# Specify the location of the .tsv file which can be downloaded from Partner Center Insights:
+# Specify the location of the file which can be downloaded from Partner Center Insights:
 # https://partner.microsoft.com/en-us/dashboard/partnerinsights/analytics/downloads?report=TrainingCompletions
+
+# If today's date is after June 1st, then we may have changed the certificate renewal dates
+# from 2 years to 1 year, so this tool won't be reliable after this date
+
+if datetime.today() >= datetime(2021, 6, 1):
+    messagebox.showerror(message="This version of the tool has expired, please download the latest version from https://github.com/guygregory/certrenew", title="Certification Renewal Tool")
+    quit()
 
 root = Tk()
 root.withdraw()
 root.filename = filedialog.askopenfilename(title="Please select the Trainings report from Partner Center Insights", filetypes=(("CSV files", "*.csv"),("TSV files", "*.tsv"), ("All files", "*.*")) )
 inputfile = root.filename
-
-# Hardcoded inputfile, will remove when open dialog works
-# inputfile = r"C:\CertRenew\Export_trainings_Lifetime_EXAMPLE_PLEASE_EDIT_THIS_FILENAME.tsv"
 
 # Load the dataframe from the .csv or .tsv file
 name, ext = os.path.splitext(inputfile)
@@ -34,7 +40,7 @@ elif ext.lower() == ".tsv":
     dfl = pd.read_csv(inputfile, sep='\t', header=0)
     
 else:
-    print("Not a valid file, please use Partner Skills Report - Trainings in either .csv or .tsv format")
+    messagebox.showerror(message="Not a valid file, please use Partner Skills Report - Trainings in either .csv or .tsv format", title="Certification Renewal Tool")
     quit()
 
 # Before we remove a bunch of columns, capture the partner name and MPN ID
@@ -137,6 +143,12 @@ writer.save()
 ### Create and Save the HTML Report ###
 
 df = rbstable # Create a copy of the dataframe
+
+
+# replacing null values in dataframe with a blank space to avoid %{customdata[1]}
+df["IndividualFirstName"].fillna(" ", inplace = True)
+df["IndividualLastName"].fillna(" ", inplace = True) 
+df["CorpEmail"].fillna(" ", inplace = True) 
 
 # Sort by date, and then reindex
 df = df.sort_values(by='CertRenewalWindowOpens')
