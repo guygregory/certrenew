@@ -1,6 +1,6 @@
 # Download the latest version!
 
-[CertRenewInstaller.exe | Version 0.2 beta | Self-extracting .exe installer | Windows x64](https://github.com/guygregory/certrenew/releases/latest/download/CertRenewInstaller.exe)
+[CertRenew.zip | Version 0.2 beta | .ZIP archive | Windows x64](https://github.com/guygregory/certrenew/releases/latest/download/CertRenew.zip)
 
 # Certification Renewal Report for Microsoft Partners
 
@@ -20,7 +20,7 @@ This [Certification Renewal Report](https://aka.ms/certrenew) allows partner adm
 
 
 
-## How to use - Running the script
+## How to use - Downloading and running the application
 <!--
 * The script requires that you have Python installed, which can be downloaded [here](https://www.python.org/downloads/)
 * Required modules: [Pandas](https://pandas.pydata.org/), [XlsxWriter](https://xlsxwriter.readthedocs.io/), [Tkinter](https://docs.python.org/3/library/tkinter.html), [Plotly, and Plotly Express](https://plotly.com/python/gantt/)
@@ -28,10 +28,9 @@ This [Certification Renewal Report](https://aka.ms/certrenew) allows partner adm
 * When running the .py script, a File Open dialog box should appear, allowing you to select the CSV/TSV file
 -->
 
-* Download the latest self-extracting installer from [here](https://github.com/guygregory/certrenew/releases/latest/download/CertRenewInstaller.exe)
-* Open the installer, and extract the files (a new folder called 'CertRenew' will be created in the 'Extract to' path)
-![](media/7zip.png)
-* In the CertRenew folder, run the certrenew.exe executable
+* Download the latest version of the application from [here](https://github.com/guygregory/certrenew/releases/latest/download/CertRenew.zip)
+* Open the .ZIP archive, and extract the CertRenew folder
+* In the extracted CertRenew folder, run the certrenew.exe executable
 ![](media/folder.png)
 * When prompted to select a file, choose the .CSV or .TSV file that you downloaded in the previous section
 ![](media/opendialog.png)
