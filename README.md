@@ -9,7 +9,7 @@
 
 In March 2021, Microsoft introduced a new approach to help learners stay current with their certifications, please see the public announcement [here](https://aka.ms/CertRenewalBlog).
 
-This [Certification Renewal Report](https://aka.ms/certrenew) allows partner admins to take the [Trainings report from Partner Center Insights](https://partner.microsoft.com/en-us/dashboard/partnerinsights/analytics/downloads?report=TrainingCompletions), and convert it into an overview of all the role-based and specialty certifications within their partner organisation. In addition, it will calculate the 6 month window during which a learner can renew their certifcation via a [free Microsoft Learn assessment](https://aka.ms/CertRenewalOverview).
+This [Certification Renewal Report](https://aka.ms/certrenew) allows partner admins to take the [Trainings report from Partner Center Insights](https://partner.microsoft.com/en-us/dashboard/partnerinsights/analytics/downloads?report=TrainingCompletions), and convert it into an interactive visual overview of all the role-based and specialty certifications within their partner organisation. It will display all of the the 6 month certification renewal windows during which learners can take a [free Microsoft Learn assessment](https://aka.ms/CertRenewalOverview).
 ![](media/ganttsummary2.png)
 ## How to use - Downloading the source data from Partner Center Insights
 
