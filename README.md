@@ -53,3 +53,4 @@ Mousing-over the individual certification will expose additional detail:
 ## Feedback
 
 *  Reach me on Twitter [@guygregory](https://twitter.com/guygregory)
+*  Found a bug? Have a suggestion? Please create a [new issue](https://github.com/guygregory/certrenew/issues)!
