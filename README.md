@@ -15,7 +15,7 @@ This [Certification Renewal Report](https://aka.ms/certrenew) allows partner adm
 
 * If you're new to Partner Center Insights, please refer to [this documentation first.](https://docs.microsoft.com/en-us/partner-center/pci-download-reports)
 * For best results, please ensure you have the [Executive Report Viewer role](https://docs.microsoft.com/en-us/partner-center/pci-roles)
-* Browse to the [Partner Center Insights](https://partner.microsoft.com/en-us/dashboard/partnerinsights/analytics/downloads?report=TrainingCompletions)
+* Browse to [Partner Center Insights](https://partner.microsoft.com/en-us/dashboard/partnerinsights/analytics/downloads?report=TrainingCompletions)
 * Select report type "Trainings", select timeframe "Lifetime", and select either File extension "TSV" or "CSV" (both formats are supported)
 * Click the Generate button to create the report
 * Download the .CSV/.TSV file via the link in the "Generated Reports" section
