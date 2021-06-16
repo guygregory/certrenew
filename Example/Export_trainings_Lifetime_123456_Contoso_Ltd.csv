@@ -1,161 +1,161 @@
-﻿TrainingActivityId,TrainingTitle,TrainingType,IndividualFirstName,IndividualLastName,Email,CorpEmail,TrainingCompletionDate,Month,IcMCP,MCPID,MPNId,PartnerName,PartnerCityLocation,PartnerCountryLocation
-3051,Azure Administrator Associate,Certification,Shanda,Fairbairn,shanda.fairbairn@outlook.com,sfairbairn@contoso.com,2018-12-25  23:07:22,Dec-18,1,7470319,1234567,Contoso Ltd,Reading,United Kingdom
-3078,Azure Developer Associate,Certification,Alane,Livsey,alane.livsey@outlook.com,alivsey@contoso.com,2019-02-10  21:02:49,Feb-19,1,6409062,1234567,Contoso Ltd,Reading,United Kingdom
-3086,Azure AI Engineer Associate,Certification,Martie,Batch,martie.batch@outlook.com,mbatch@contoso.com,2019-04-10  14:38:42,Apr-19,1,2458351,1234567,Contoso Ltd,Reading,United Kingdom
-3085,Messaging Administrator Associate,Certification,,,hadlee.wigan@outlook.com,hwigan@contoso.com,2019-08-15  12:10:13,Aug-19,1,5496820,1234567,Contoso Ltd,Reading,United Kingdom
-3080,Teamwork Administrator Associate,Certification,Lauraine,Fullun,lauraine.fullun@outlook.com,,2019-09-02  14:38:48,Sep-19,1,15974386,1234567,Contoso Ltd,Reading,United Kingdom
-3091,Azure Security Engineer Associate,Certification,Dacie,Jonas,dacie.jonas@outlook.com,,2019-10-12  02:11:03,Oct-19,1,4944140,1234567,Contoso Ltd,Reading,United Kingdom
-3079,Security Administrator Associate,Certification,Webb,Scheu,webb.scheu@outlook.com,,2020-01-02  02:41:47,Jan-20,1,11138691,1234567,Contoso Ltd,Reading,United Kingdom
-3130,Teams Administrator Associate,Certification,Alicia,Idell,alicia.idell@outlook.com,aidell@contoso.com,2020-07-03  20:11:47,Jul-20,1,1760465,1234567,Contoso Ltd,Reading,United Kingdom
-3088,Azure Data Engineer Associate,Certification,Glennis,Ahern,glennis.ahern@outlook.com,gahern@contoso.com,2020-08-12  03:00:51,Aug-20,1,10322669,1234567,Contoso Ltd,Reading,United Kingdom
-3151,Power Platform App Maker Associate,Certification,,,shelden.mcilwrath@outlook.com,smcilwrath@contoso.com,2020-08-30  17:26:16,Aug-20,1,8382452,1234567,Contoso Ltd,Reading,United Kingdom
-3087,Azure Data Scientist Associate,Certification,,,melisent.kleinert@outlook.com,mkleinert@contoso.com,2020-10-07  16:40:57,Oct-20,1,4055608,1234567,Contoso Ltd,Reading,United Kingdom
-3142,Data Analyst Associate,Certification,,,hurleigh.brunini@outlook.com,hbrunini@contoso.com,2020-10-21  14:59:14,Oct-20,1,15922202,1234567,Contoso Ltd,Reading,United Kingdom
-3143,Azure Database Administrator Associate,Certification,,,leticia.raphael@outlook.com,lraphael@contoso.com,2020-10-24  18:25:33,Oct-20,1,1803573,1234567,Contoso Ltd,Reading,United Kingdom
-3077,Azure Solutions Architect Expert,Certification,Tremayne,Snarie,tremayne.snarie@outlook.com,tsnarie@contoso.com,2019-03-24  08:45:51,Mar-19,1,6608656,1234567,Contoso Ltd,Reading,United Kingdom
-3082,Azure DevOps Engineer Expert,Certification,Oswald,Shewry,oswald.shewry@outlook.com,oshewry@contoso.com,2020-01-26  12:06:49,Jan-20,1,4914019,1234567,Contoso Ltd,Reading,United Kingdom
-3081,Enterprise Administrator Expert,Certification,Clayborne,Bayle,clayborne.bayle@outlook.com,,2020-06-26  09:54:35,Jun-20,1,10845724,1234567,Contoso Ltd,Reading,United Kingdom
-3051,Azure Administrator Associate,Certification,Evie,Hedau,evie.hedau@outlook.com,,2018-12-16  18:57:04,Dec-18,1,12318478,1234567,Contoso Ltd,Reading,United Kingdom
-3078,Azure Developer Associate,Certification,Kesley,Scandrite,kesley.scandrite@outlook.com,,2019-02-19  05:12:09,Feb-19,1,6583260,1234567,Contoso Ltd,Reading,United Kingdom
-3086,Azure AI Engineer Associate,Certification,Julietta,Trout,julietta.trout@outlook.com,,2019-03-23  12:08:33,Mar-19,1,834330,1234567,Contoso Ltd,Reading,United Kingdom
-3085,Messaging Administrator Associate,Certification,Del,Fradson,del.fradson@outlook.com,,2019-09-09  04:13:27,Sep-19,1,1703900,1234567,Contoso Ltd,Reading,United Kingdom
-3080,Teamwork Administrator Associate,Certification,,,maurise.coffey@outlook.com,mcoffey@contoso.com,2019-09-17  02:31:30,Sep-19,1,4613471,1234567,Contoso Ltd,Reading,United Kingdom
-3091,Azure Security Engineer Associate,Certification,,,eugenia.kensley@outlook.com,ekensley@contoso.com,2019-09-09  02:47:10,Sep-19,1,11322139,1234567,Contoso Ltd,Reading,United Kingdom
-3079,Security Administrator Associate,Certification,,,gerladina.candlish@outlook.com,gcandlish@contoso.com,2020-01-04  00:37:57,Jan-20,1,5363838,1234567,Contoso Ltd,Reading,United Kingdom
-3130,Teams Administrator Associate,Certification,,,felike.dhillon@outlook.com,fdhillon@contoso.com,2020-07-08  16:21:55,Jul-20,1,1975695,1234567,Contoso Ltd,Reading,United Kingdom
-3088,Azure Data Engineer Associate,Certification,,,warren.wilbraham@outlook.com,wwilbraham@contoso.com,2020-07-08  13:56:26,Jul-20,1,17257272,1234567,Contoso Ltd,Reading,United Kingdom
-3151,Power Platform App Maker Associate,Certification,,,augustus.benedite@outlook.com,abenedite@contoso.com,2020-09-09  20:01:05,Sep-20,1,6754468,1234567,Contoso Ltd,Reading,United Kingdom
-3087,Azure Data Scientist Associate,Certification,,,lynett.philippart@outlook.com,lphilippart@contoso.com,2020-11-01  11:35:15,Nov-20,1,1366605,1234567,Contoso Ltd,Reading,United Kingdom
-3142,Data Analyst Associate,Certification,Franklyn,Parkeson,franklyn.parkeson@outlook.com,,2020-11-15  08:11:09,Nov-20,1,13023495,1234567,Contoso Ltd,Reading,United Kingdom
-3143,Azure Database Administrator Associate,Certification,Valdemar,Cozzi,valdemar.cozzi@outlook.com,,2020-10-29  07:32:28,Oct-20,1,11756863,1234567,Contoso Ltd,Reading,United Kingdom
-3077,Azure Solutions Architect Expert,Certification,Sianna,Currie,sianna.currie@outlook.com,,2019-04-13  07:31:40,Apr-19,1,15812392,1234567,Contoso Ltd,Reading,United Kingdom
-3082,Azure DevOps Engineer Expert,Certification,,,lilyan.shelf@outlook.com,,2020-01-15  11:30:59,Jan-20,1,11877659,1234567,Contoso Ltd,Reading,United Kingdom
-3081,Enterprise Administrator Expert,Certification,Anjanette,Bone,anjanette.bone@outlook.com,,2020-07-07  22:43:15,Jul-20,1,5933351,1234567,Contoso Ltd,Reading,United Kingdom
-3051,Azure Administrator Associate,Certification,Hanni,Markushkin,hanni.markushkin@outlook.com,,2019-01-11  22:37:42,Jan-19,1,10639331,1234567,Contoso Ltd,Reading,United Kingdom
-3078,Azure Developer Associate,Certification,Chris,Bastone,chris.bastone@outlook.com,,2019-01-17  19:44:24,Jan-19,1,14888107,1234567,Contoso Ltd,Reading,United Kingdom
-3086,Azure AI Engineer Associate,Certification,Morlee,Edmondson,morlee.edmondson@outlook.com,medmondson@contoso.com,2019-03-28  19:40:39,Mar-19,1,16911184,1234567,Contoso Ltd,Reading,United Kingdom
-3085,Messaging Administrator Associate,Certification,Mead,Sargent,mead.sargent@outlook.com,msargent@contoso.com,2019-07-28  16:30:25,Jul-19,1,5796600,1234567,Contoso Ltd,Reading,United Kingdom
-3080,Teamwork Administrator Associate,Certification,Robinet,Maypole,robinet.maypole@outlook.com,rmaypole@contoso.com,2019-09-08  04:57:55,Sep-19,1,15583276,1234567,Contoso Ltd,Reading,United Kingdom
-3091,Azure Security Engineer Associate,Certification,,,hector.bryant@outlook.com,hbryant@contoso.com,2019-09-12  13:44:30,Sep-19,1,8572707,1234567,Contoso Ltd,Reading,United Kingdom
-3079,Security Administrator Associate,Certification,,,scarlett.cherrison@outlook.com,scherrison@contoso.com,2020-01-24  05:30:09,Jan-20,1,6364377,1234567,Contoso Ltd,Reading,United Kingdom
-3130,Teams Administrator Associate,Certification,,,korey.schlagman@outlook.com,kschlagman@contoso.com,2020-07-25  08:56:01,Jul-20,1,6513413,1234567,Contoso Ltd,Reading,United Kingdom
-3088,Azure Data Engineer Associate,Certification,Shanda,Fairbairn,shanda.fairbairn@outlook.com,sfairbairn@contoso.com,2020-07-18  00:10:03,Jul-20,1,7470319,1234567,Contoso Ltd,Reading,United Kingdom
-3151,Power Platform App Maker Associate,Certification,Alane,Livsey,alane.livsey@outlook.com,alivsey@contoso.com,2020-09-07  14:04:00,Sep-20,1,6409062,1234567,Contoso Ltd,Reading,United Kingdom
-3087,Azure Data Scientist Associate,Certification,Martie,Batch,martie.batch@outlook.com,mbatch@contoso.com,2020-09-10  13:35:39,Sep-20,1,2458351,1234567,Contoso Ltd,Reading,United Kingdom
-3142,Data Analyst Associate,Certification,,,hadlee.wigan@outlook.com,hwigan@contoso.com,2020-11-22  14:50:11,Nov-20,1,5496820,1234567,Contoso Ltd,Reading,United Kingdom
-3143,Azure Database Administrator Associate,Certification,Lauraine,Fullun,lauraine.fullun@outlook.com,,2020-11-05  07:35:37,Nov-20,1,15974386,1234567,Contoso Ltd,Reading,United Kingdom
-3077,Azure Solutions Architect Expert,Certification,Dacie,Jonas,dacie.jonas@outlook.com,,2019-05-02  08:12:40,May-19,1,4944140,1234567,Contoso Ltd,Reading,United Kingdom
-3082,Azure DevOps Engineer Expert,Certification,Webb,Scheu,webb.scheu@outlook.com,,2019-12-14  19:23:48,Dec-19,1,11138691,1234567,Contoso Ltd,Reading,United Kingdom
-3081,Enterprise Administrator Expert,Certification,Alicia,Idell,alicia.idell@outlook.com,aidell@contoso.com,2020-07-22  04:56:48,Jul-20,1,1760465,1234567,Contoso Ltd,Reading,United Kingdom
-3051,Azure Administrator Associate,Certification,Glennis,Ahern,glennis.ahern@outlook.com,gahern@contoso.com,2019-01-13  22:38:21,Jan-19,1,10322669,1234567,Contoso Ltd,Reading,United Kingdom
-3078,Azure Developer Associate,Certification,,,shelden.mcilwrath@outlook.com,smcilwrath@contoso.com,2019-02-21  17:43:25,Feb-19,1,8382452,1234567,Contoso Ltd,Reading,United Kingdom
-3086,Azure AI Engineer Associate,Certification,,,melisent.kleinert@outlook.com,mkleinert@contoso.com,2019-04-18  04:27:36,Apr-19,1,4055608,1234567,Contoso Ltd,Reading,United Kingdom
-3085,Messaging Administrator Associate,Certification,,,hurleigh.brunini@outlook.com,hbrunini@contoso.com,2019-09-02  20:11:48,Sep-19,1,15922202,1234567,Contoso Ltd,Reading,United Kingdom
-3080,Teamwork Administrator Associate,Certification,,,leticia.raphael@outlook.com,lraphael@contoso.com,2019-10-17  00:29:10,Oct-19,1,1803573,1234567,Contoso Ltd,Reading,United Kingdom
-3091,Azure Security Engineer Associate,Certification,Tremayne,Snarie,tremayne.snarie@outlook.com,tsnarie@contoso.com,2019-10-01  20:31:46,Oct-19,1,6608656,1234567,Contoso Ltd,Reading,United Kingdom
-3079,Security Administrator Associate,Certification,Oswald,Shewry,oswald.shewry@outlook.com,oshewry@contoso.com,2020-02-14  23:28:31,Feb-20,1,4914019,1234567,Contoso Ltd,Reading,United Kingdom
-3130,Teams Administrator Associate,Certification,Clayborne,Bayle,clayborne.bayle@outlook.com,,2020-06-27  12:56:05,Jun-20,1,10845724,1234567,Contoso Ltd,Reading,United Kingdom
-3088,Azure Data Engineer Associate,Certification,Evie,Hedau,evie.hedau@outlook.com,,2020-07-28  21:21:44,Jul-20,1,12318478,1234567,Contoso Ltd,Reading,United Kingdom
-3151,Power Platform App Maker Associate,Certification,Kesley,Scandrite,kesley.scandrite@outlook.com,,2020-09-03  04:10:58,Sep-20,1,6583260,1234567,Contoso Ltd,Reading,United Kingdom
-3087,Azure Data Scientist Associate,Certification,Julietta,Trout,julietta.trout@outlook.com,,2020-10-06  07:30:57,Oct-20,1,834330,1234567,Contoso Ltd,Reading,United Kingdom
-3142,Data Analyst Associate,Certification,Del,Fradson,del.fradson@outlook.com,,2020-10-31  11:54:22,Oct-20,1,1703900,1234567,Contoso Ltd,Reading,United Kingdom
-3143,Azure Database Administrator Associate,Certification,,,maurise.coffey@outlook.com,mcoffey@contoso.com,2020-11-07  09:30:44,Nov-20,1,4613471,1234567,Contoso Ltd,Reading,United Kingdom
-3077,Azure Solutions Architect Expert,Certification,,,eugenia.kensley@outlook.com,ekensley@contoso.com,2019-03-28  17:46:56,Mar-19,1,11322139,1234567,Contoso Ltd,Reading,United Kingdom
-3082,Azure DevOps Engineer Expert,Certification,,,gerladina.candlish@outlook.com,gcandlish@contoso.com,2020-01-20  20:58:53,Jan-20,1,5363838,1234567,Contoso Ltd,Reading,United Kingdom
-3081,Enterprise Administrator Expert,Certification,,,felike.dhillon@outlook.com,fdhillon@contoso.com,2020-06-27  10:04:01,Jun-20,1,1975695,1234567,Contoso Ltd,Reading,United Kingdom
-3051,Azure Administrator Associate,Certification,,,warren.wilbraham@outlook.com,wwilbraham@contoso.com,2018-12-02  14:35:06,Dec-18,1,17257272,1234567,Contoso Ltd,Reading,United Kingdom
-3078,Azure Developer Associate,Certification,,,augustus.benedite@outlook.com,abenedite@contoso.com,2019-01-20  00:48:38,Jan-19,1,6754468,1234567,Contoso Ltd,Reading,United Kingdom
-3086,Azure AI Engineer Associate,Certification,,,lynett.philippart@outlook.com,lphilippart@contoso.com,2019-04-20  01:45:31,Apr-19,1,1366605,1234567,Contoso Ltd,Reading,United Kingdom
-3085,Messaging Administrator Associate,Certification,Franklyn,Parkeson,franklyn.parkeson@outlook.com,,2019-08-03  21:07:45,Aug-19,1,13023495,1234567,Contoso Ltd,Reading,United Kingdom
-3080,Teamwork Administrator Associate,Certification,Valdemar,Cozzi,valdemar.cozzi@outlook.com,,2019-09-06  19:04:38,Sep-19,1,11756863,1234567,Contoso Ltd,Reading,United Kingdom
-3091,Azure Security Engineer Associate,Certification,Sianna,Currie,sianna.currie@outlook.com,,2019-09-27  02:13:18,Sep-19,1,15812392,1234567,Contoso Ltd,Reading,United Kingdom
-3079,Security Administrator Associate,Certification,,,lilyan.shelf@outlook.com,,2020-01-30  12:53:24,Jan-20,1,11877659,1234567,Contoso Ltd,Reading,United Kingdom
-3130,Teams Administrator Associate,Certification,Anjanette,Bone,anjanette.bone@outlook.com,,2020-08-14  16:18:59,Aug-20,1,5933351,1234567,Contoso Ltd,Reading,United Kingdom
-3088,Azure Data Engineer Associate,Certification,Hanni,Markushkin,hanni.markushkin@outlook.com,,2020-08-22  05:13:47,Aug-20,1,10639331,1234567,Contoso Ltd,Reading,United Kingdom
-3151,Power Platform App Maker Associate,Certification,Chris,Bastone,chris.bastone@outlook.com,,2020-08-13  08:38:35,Aug-20,1,14888107,1234567,Contoso Ltd,Reading,United Kingdom
-3087,Azure Data Scientist Associate,Certification,Morlee,Edmondson,morlee.edmondson@outlook.com,medmondson@contoso.com,2020-10-20  05:07:03,Oct-20,1,16911184,1234567,Contoso Ltd,Reading,United Kingdom
-3142,Data Analyst Associate,Certification,Mead,Sargent,mead.sargent@outlook.com,msargent@contoso.com,2020-11-21  11:54:00,Nov-20,1,5796600,1234567,Contoso Ltd,Reading,United Kingdom
-3143,Azure Database Administrator Associate,Certification,Robinet,Maypole,robinet.maypole@outlook.com,rmaypole@contoso.com,2020-10-11  15:37:21,Oct-20,1,15583276,1234567,Contoso Ltd,Reading,United Kingdom
-3077,Azure Solutions Architect Expert,Certification,,,hector.bryant@outlook.com,hbryant@contoso.com,2019-04-07  16:21:29,Apr-19,1,8572707,1234567,Contoso Ltd,Reading,United Kingdom
-3082,Azure DevOps Engineer Expert,Certification,,,scarlett.cherrison@outlook.com,scherrison@contoso.com,2019-12-12  15:14:22,Dec-19,1,6364377,1234567,Contoso Ltd,Reading,United Kingdom
-3081,Enterprise Administrator Expert,Certification,,,korey.schlagman@outlook.com,kschlagman@contoso.com,2020-08-03  00:34:49,Aug-20,1,6513413,1234567,Contoso Ltd,Reading,United Kingdom
-3051,Azure Administrator Associate,Certification,Keeley,Howship,keeley.howship@outlook.com,khowship@contoso.com,2018-12-08  04:37:33,Dec-18,1,689300,1234567,Contoso Ltd,Reading,United Kingdom
-3078,Azure Developer Associate,Certification,Brose,McGirl,brose.mcgirl@outlook.com,bmcgirl@contoso.com,2019-01-30  18:25:28,Jan-19,1,10679768,1234567,Contoso Ltd,Reading,United Kingdom
-3086,Azure AI Engineer Associate,Certification,Shanda,Fairbairn,shanda.fairbairn@outlook.com,sfairbairn@contoso.com,2019-04-06  04:02:26,Apr-19,1,7470319,1234567,Contoso Ltd,Reading,United Kingdom
-3085,Messaging Administrator Associate,Certification,Alane,Livsey,alane.livsey@outlook.com,alivsey@contoso.com,2019-08-02  19:51:18,Aug-19,1,6409062,1234567,Contoso Ltd,Reading,United Kingdom
-3080,Teamwork Administrator Associate,Certification,Martie,Batch,martie.batch@outlook.com,mbatch@contoso.com,2019-09-08  10:44:40,Sep-19,1,2458351,1234567,Contoso Ltd,Reading,United Kingdom
-3091,Azure Security Engineer Associate,Certification,,,hadlee.wigan@outlook.com,hwigan@contoso.com,2019-09-16  00:36:46,Sep-19,1,5496820,1234567,Contoso Ltd,Reading,United Kingdom
-3079,Security Administrator Associate,Certification,Lauraine,Fullun,lauraine.fullun@outlook.com,,2019-12-25  17:11:20,Dec-19,1,15974386,1234567,Contoso Ltd,Reading,United Kingdom
-3130,Teams Administrator Associate,Certification,Dacie,Jonas,dacie.jonas@outlook.com,,2020-07-06  13:28:52,Jul-20,1,4944140,1234567,Contoso Ltd,Reading,United Kingdom
-3088,Azure Data Engineer Associate,Certification,Webb,Scheu,webb.scheu@outlook.com,,2020-07-15  07:20:09,Jul-20,1,11138691,1234567,Contoso Ltd,Reading,United Kingdom
-3151,Power Platform App Maker Associate,Certification,Alicia,Idell,alicia.idell@outlook.com,aidell@contoso.com,2020-09-13  14:32:35,Sep-20,1,1760465,1234567,Contoso Ltd,Reading,United Kingdom
-3087,Azure Data Scientist Associate,Certification,Glennis,Ahern,glennis.ahern@outlook.com,gahern@contoso.com,2020-09-20  21:07:27,Sep-20,1,10322669,1234567,Contoso Ltd,Reading,United Kingdom
-3142,Data Analyst Associate,Certification,,,shelden.mcilwrath@outlook.com,smcilwrath@contoso.com,2020-11-06  00:14:06,Nov-20,1,8382452,1234567,Contoso Ltd,Reading,United Kingdom
-3143,Azure Database Administrator Associate,Certification,,,melisent.kleinert@outlook.com,mkleinert@contoso.com,2020-11-02  17:09:28,Nov-20,1,4055608,1234567,Contoso Ltd,Reading,United Kingdom
-3077,Azure Solutions Architect Expert,Certification,,,hurleigh.brunini@outlook.com,hbrunini@contoso.com,2019-04-21  13:09:45,Apr-19,1,15922202,1234567,Contoso Ltd,Reading,United Kingdom
-3082,Azure DevOps Engineer Expert,Certification,,,leticia.raphael@outlook.com,lraphael@contoso.com,2020-01-03  07:25:18,Jan-20,1,1803573,1234567,Contoso Ltd,Reading,United Kingdom
-3081,Enterprise Administrator Expert,Certification,Tremayne,Snarie,tremayne.snarie@outlook.com,tsnarie@contoso.com,2020-07-27  05:32:16,Jul-20,1,6608656,1234567,Contoso Ltd,Reading,United Kingdom
-3051,Azure Administrator Associate,Certification,Oswald,Shewry,oswald.shewry@outlook.com,oshewry@contoso.com,2018-12-27  00:48:45,Dec-18,1,4914019,1234567,Contoso Ltd,Reading,United Kingdom
-3078,Azure Developer Associate,Certification,Clayborne,Bayle,clayborne.bayle@outlook.com,,2019-01-04  06:03:23,Jan-19,1,10845724,1234567,Contoso Ltd,Reading,United Kingdom
-3086,Azure AI Engineer Associate,Certification,Evie,Hedau,evie.hedau@outlook.com,,2019-04-30  13:48:45,Apr-19,1,12318478,1234567,Contoso Ltd,Reading,United Kingdom
-3085,Messaging Administrator Associate,Certification,Kesley,Scandrite,kesley.scandrite@outlook.com,,2019-08-24  22:04:13,Aug-19,1,6583260,1234567,Contoso Ltd,Reading,United Kingdom
-3080,Teamwork Administrator Associate,Certification,Julietta,Trout,julietta.trout@outlook.com,,2019-09-11  20:22:25,Sep-19,1,834330,1234567,Contoso Ltd,Reading,United Kingdom
-3091,Azure Security Engineer Associate,Certification,Del,Fradson,del.fradson@outlook.com,,2019-09-25  13:15:04,Sep-19,1,1703900,1234567,Contoso Ltd,Reading,United Kingdom
-3079,Security Administrator Associate,Certification,,,maurise.coffey@outlook.com,mcoffey@contoso.com,2020-01-09  01:36:59,Jan-20,1,4613471,1234567,Contoso Ltd,Reading,United Kingdom
-3130,Teams Administrator Associate,Certification,,,eugenia.kensley@outlook.com,ekensley@contoso.com,2020-08-11  15:35:20,Aug-20,1,11322139,1234567,Contoso Ltd,Reading,United Kingdom
-3088,Azure Data Engineer Associate,Certification,,,gerladina.candlish@outlook.com,gcandlish@contoso.com,2020-07-22  23:50:10,Jul-20,1,5363838,1234567,Contoso Ltd,Reading,United Kingdom
-3151,Power Platform App Maker Associate,Certification,,,felike.dhillon@outlook.com,fdhillon@contoso.com,2020-09-20  17:11:24,Sep-20,1,1975695,1234567,Contoso Ltd,Reading,United Kingdom
-3087,Azure Data Scientist Associate,Certification,,,warren.wilbraham@outlook.com,wwilbraham@contoso.com,2020-09-21  03:20:57,Sep-20,1,17257272,1234567,Contoso Ltd,Reading,United Kingdom
-3142,Data Analyst Associate,Certification,,,augustus.benedite@outlook.com,abenedite@contoso.com,2020-11-21  21:44:59,Nov-20,1,6754468,1234567,Contoso Ltd,Reading,United Kingdom
-3143,Azure Database Administrator Associate,Certification,,,lynett.philippart@outlook.com,lphilippart@contoso.com,2020-11-07  22:10:07,Nov-20,1,1366605,1234567,Contoso Ltd,Reading,United Kingdom
-3077,Azure Solutions Architect Expert,Certification,Franklyn,Parkeson,franklyn.parkeson@outlook.com,,2019-03-29  10:10:49,Mar-19,1,13023495,1234567,Contoso Ltd,Reading,United Kingdom
-3082,Azure DevOps Engineer Expert,Certification,Valdemar,Cozzi,valdemar.cozzi@outlook.com,,2019-12-06  16:00:27,Dec-19,1,11756863,1234567,Contoso Ltd,Reading,United Kingdom
-3081,Enterprise Administrator Expert,Certification,Sianna,Currie,sianna.currie@outlook.com,,2020-06-08  01:28:19,Jun-20,1,15812392,1234567,Contoso Ltd,Reading,United Kingdom
-3051,Azure Administrator Associate,Certification,,,lilyan.shelf@outlook.com,,2018-12-02  03:12:02,Dec-18,1,11877659,1234567,Contoso Ltd,Reading,United Kingdom
-3078,Azure Developer Associate,Certification,Anjanette,Bone,anjanette.bone@outlook.com,,2019-02-04  07:29:29,Feb-19,1,5933351,1234567,Contoso Ltd,Reading,United Kingdom
-3086,Azure AI Engineer Associate,Certification,Hanni,Markushkin,hanni.markushkin@outlook.com,,2019-03-09  02:20:49,Mar-19,1,10639331,1234567,Contoso Ltd,Reading,United Kingdom
-3085,Messaging Administrator Associate,Certification,Chris,Bastone,chris.bastone@outlook.com,,2019-09-17  19:42:10,Sep-19,1,14888107,1234567,Contoso Ltd,Reading,United Kingdom
-3080,Teamwork Administrator Associate,Certification,Morlee,Edmondson,morlee.edmondson@outlook.com,medmondson@contoso.com,2019-09-27  06:00:58,Sep-19,1,16911184,1234567,Contoso Ltd,Reading,United Kingdom
-3091,Azure Security Engineer Associate,Certification,Mead,Sargent,mead.sargent@outlook.com,msargent@contoso.com,2019-10-09  14:26:32,Oct-19,1,5796600,1234567,Contoso Ltd,Reading,United Kingdom
-3079,Security Administrator Associate,Certification,Robinet,Maypole,robinet.maypole@outlook.com,rmaypole@contoso.com,2020-02-03  22:46:47,Feb-20,1,15583276,1234567,Contoso Ltd,Reading,United Kingdom
-3130,Teams Administrator Associate,Certification,,,hector.bryant@outlook.com,hbryant@contoso.com,2020-08-17  10:24:08,Aug-20,1,8572707,1234567,Contoso Ltd,Reading,United Kingdom
-3088,Azure Data Engineer Associate,Certification,,,scarlett.cherrison@outlook.com,scherrison@contoso.com,2020-07-09  01:36:11,Jul-20,1,6364377,1234567,Contoso Ltd,Reading,United Kingdom
-3151,Power Platform App Maker Associate,Certification,,,korey.schlagman@outlook.com,kschlagman@contoso.com,2020-08-31  16:54:58,Aug-20,1,6513413,1234567,Contoso Ltd,Reading,United Kingdom
-3087,Azure Data Scientist Associate,Certification,Keeley,Howship,keeley.howship@outlook.com,khowship@contoso.com,2020-11-01  05:29:29,Nov-20,1,689300,1234567,Contoso Ltd,Reading,United Kingdom
-3142,Data Analyst Associate,Certification,Brose,McGirl,brose.mcgirl@outlook.com,bmcgirl@contoso.com,2020-10-10  03:11:10,Oct-20,1,10679768,1234567,Contoso Ltd,Reading,United Kingdom
-3143,Azure Database Administrator Associate,Certification,Shanda,Fairbairn,shanda.fairbairn@outlook.com,sfairbairn@contoso.com,2020-10-17  19:35:59,Oct-20,1,7470319,1234567,Contoso Ltd,Reading,United Kingdom
-3077,Azure Solutions Architect Expert,Certification,Alane,Livsey,alane.livsey@outlook.com,alivsey@contoso.com,2019-03-30  10:55:29,Mar-19,1,6409062,1234567,Contoso Ltd,Reading,United Kingdom
-3082,Azure DevOps Engineer Expert,Certification,Martie,Batch,martie.batch@outlook.com,mbatch@contoso.com,2019-12-01  20:54:20,Dec-19,1,2458351,1234567,Contoso Ltd,Reading,United Kingdom
-3081,Enterprise Administrator Expert,Certification,,,hadlee.wigan@outlook.com,hwigan@contoso.com,2020-07-11  11:53:05,Jul-20,1,5496820,1234567,Contoso Ltd,Reading,United Kingdom
-3051,Azure Administrator Associate,Certification,Lauraine,Fullun,lauraine.fullun@outlook.com,,2018-12-27  13:30:36,Dec-18,1,15974386,1234567,Contoso Ltd,Reading,United Kingdom
-3078,Azure Developer Associate,Certification,Dacie,Jonas,dacie.jonas@outlook.com,,2019-01-29  04:33:03,Jan-19,1,4944140,1234567,Contoso Ltd,Reading,United Kingdom
-3086,Azure AI Engineer Associate,Certification,Webb,Scheu,webb.scheu@outlook.com,,2019-04-10  01:40:02,Apr-19,1,11138691,1234567,Contoso Ltd,Reading,United Kingdom
-3085,Messaging Administrator Associate,Certification,Alicia,Idell,alicia.idell@outlook.com,aidell@contoso.com,2019-08-21  02:35:05,Aug-19,1,1760465,1234567,Contoso Ltd,Reading,United Kingdom
-3080,Teamwork Administrator Associate,Certification,Glennis,Ahern,glennis.ahern@outlook.com,gahern@contoso.com,2019-09-09  12:29:25,Sep-19,1,10322669,1234567,Contoso Ltd,Reading,United Kingdom
-3091,Azure Security Engineer Associate,Certification,,,shelden.mcilwrath@outlook.com,smcilwrath@contoso.com,2019-09-25  10:21:07,Sep-19,1,8382452,1234567,Contoso Ltd,Reading,United Kingdom
-3079,Security Administrator Associate,Certification,,,melisent.kleinert@outlook.com,mkleinert@contoso.com,2020-01-22  11:13:51,Jan-20,1,4055608,1234567,Contoso Ltd,Reading,United Kingdom
-3130,Teams Administrator Associate,Certification,,,hurleigh.brunini@outlook.com,hbrunini@contoso.com,2020-07-10  05:23:54,Jul-20,1,15922202,1234567,Contoso Ltd,Reading,United Kingdom
-3088,Azure Data Engineer Associate,Certification,,,leticia.raphael@outlook.com,lraphael@contoso.com,2020-08-14  19:07:25,Aug-20,1,1803573,1234567,Contoso Ltd,Reading,United Kingdom
-3151,Power Platform App Maker Associate,Certification,Tremayne,Snarie,tremayne.snarie@outlook.com,tsnarie@contoso.com,2020-08-14  15:04:48,Aug-20,1,6608656,1234567,Contoso Ltd,Reading,United Kingdom
-3087,Azure Data Scientist Associate,Certification,Oswald,Shewry,oswald.shewry@outlook.com,oshewry@contoso.com,2020-10-30  23:28:14,Oct-20,1,4914019,1234567,Contoso Ltd,Reading,United Kingdom
-3142,Data Analyst Associate,Certification,Clayborne,Bayle,clayborne.bayle@outlook.com,,2020-10-26  07:24:11,Oct-20,1,10845724,1234567,Contoso Ltd,Reading,United Kingdom
-3143,Azure Database Administrator Associate,Certification,Evie,Hedau,evie.hedau@outlook.com,,2020-11-09  05:15:14,Nov-20,1,12318478,1234567,Contoso Ltd,Reading,United Kingdom
-3077,Azure Solutions Architect Expert,Certification,Kesley,Scandrite,kesley.scandrite@outlook.com,,2019-04-30  14:10:28,Apr-19,1,6583260,1234567,Contoso Ltd,Reading,United Kingdom
-3082,Azure DevOps Engineer Expert,Certification,Julietta,Trout,julietta.trout@outlook.com,,2020-01-28  19:32:45,Jan-20,1,834330,1234567,Contoso Ltd,Reading,United Kingdom
-3081,Enterprise Administrator Expert,Certification,Del,Fradson,del.fradson@outlook.com,,2020-08-03  22:59:05,Aug-20,1,1703900,1234567,Contoso Ltd,Reading,United Kingdom
-3051,Azure Administrator Associate,Certification,,,maurise.coffey@outlook.com,mcoffey@contoso.com,2018-12-05  00:03:01,Dec-18,1,4613471,1234567,Contoso Ltd,Reading,United Kingdom
-3078,Azure Developer Associate,Certification,,,eugenia.kensley@outlook.com,ekensley@contoso.com,2019-01-25  10:56:25,Jan-19,1,11322139,1234567,Contoso Ltd,Reading,United Kingdom
-3086,Azure AI Engineer Associate,Certification,,,gerladina.candlish@outlook.com,gcandlish@contoso.com,2019-04-22  21:58:56,Apr-19,1,5363838,1234567,Contoso Ltd,Reading,United Kingdom
-3085,Messaging Administrator Associate,Certification,,,felike.dhillon@outlook.com,fdhillon@contoso.com,2019-09-21  00:31:07,Sep-19,1,1975695,1234567,Contoso Ltd,Reading,United Kingdom
-3080,Teamwork Administrator Associate,Certification,,,warren.wilbraham@outlook.com,wwilbraham@contoso.com,2019-09-21  00:07:42,Sep-19,1,17257272,1234567,Contoso Ltd,Reading,United Kingdom
-3091,Azure Security Engineer Associate,Certification,,,augustus.benedite@outlook.com,abenedite@contoso.com,2019-09-14  20:11:22,Sep-19,1,6754468,1234567,Contoso Ltd,Reading,United Kingdom
-3079,Security Administrator Associate,Certification,,,lynett.philippart@outlook.com,lphilippart@contoso.com,2019-12-21  10:42:47,Dec-19,1,1366605,1234567,Contoso Ltd,Reading,United Kingdom
-3130,Teams Administrator Associate,Certification,Franklyn,Parkeson,franklyn.parkeson@outlook.com,,2020-07-02  10:21:20,Jul-20,1,13023495,1234567,Contoso Ltd,Reading,United Kingdom
-3088,Azure Data Engineer Associate,Certification,Valdemar,Cozzi,valdemar.cozzi@outlook.com,,2020-07-21  23:53:22,Jul-20,1,11756863,1234567,Contoso Ltd,Reading,United Kingdom
-3151,Power Platform App Maker Associate,Certification,Sianna,Currie,sianna.currie@outlook.com,,2020-09-01  23:46:57,Sep-20,1,15812392,1234567,Contoso Ltd,Reading,United Kingdom
-3087,Azure Data Scientist Associate,Certification,,,lilyan.shelf@outlook.com,,2020-09-13  23:08:10,Sep-20,1,11877659,1234567,Contoso Ltd,Reading,United Kingdom
-3142,Data Analyst Associate,Certification,Anjanette,Bone,anjanette.bone@outlook.com,,2020-10-18  07:08:04,Oct-20,1,5933351,1234567,Contoso Ltd,Reading,United Kingdom
-3143,Azure Database Administrator Associate,Certification,Hanni,Markushkin,hanni.markushkin@outlook.com,,2020-11-13  05:17:52,Nov-20,1,10639331,1234567,Contoso Ltd,Reading,United Kingdom
-3077,Azure Solutions Architect Expert,Certification,Chris,Bastone,chris.bastone@outlook.com,,2019-03-16  11:19:31,Mar-19,1,14888107,1234567,Contoso Ltd,Reading,United Kingdom
-3082,Azure DevOps Engineer Expert,Certification,Morlee,Edmondson,morlee.edmondson@outlook.com,medmondson@contoso.com,2019-12-19  22:57:43,Dec-19,1,16911184,1234567,Contoso Ltd,Reading,United Kingdom
-3081,Enterprise Administrator Expert,Certification,Mead,Sargent,mead.sargent@outlook.com,msargent@contoso.com,2020-07-20  01:04:42,Jul-20,1,5796600,1234567,Contoso Ltd,Reading,United Kingdom
+﻿TrainingActivityId,TrainingTitle,TrainingType,IndividualFirstName,IndividualLastName,Email,CorpEmail,TrainingCompletionDate,Month,IcMCP,MCPID,MPNId,PartnerName,PartnerCityLocation,PartnerCountryLocation,ExpirationDate,ActivationStatus
+3051,Azure Administrator Associate,Certification,Shanda,Fairbairn,shanda.fairbairn@outlook.com,sfairbairn@contoso.com,25/12/2018 23:07,Dec-18,1,7470319,1234567,Contoso Ltd,Reading,United Kingdom,25/12/2021 23:07,Active
+3078,Azure Developer Associate,Certification,Alane,Livsey,alane.livsey@outlook.com,alivsey@contoso.com,10/02/2019 21:02,Feb-19,1,6409062,1234567,Contoso Ltd,Reading,United Kingdom,10/08/2021 21:02,Active
+3086,Azure AI Engineer Associate,Certification,Martie,Batch,martie.batch@outlook.com,mbatch@contoso.com,10/04/2019 14:38,Apr-19,1,2458351,1234567,Contoso Ltd,Reading,United Kingdom,10/10/2021 14:38,Active
+3085,Messaging Administrator Associate,Certification,,,hadlee.wigan@outlook.com,hwigan@contoso.com,15/08/2019 12:10,Aug-19,1,5496820,1234567,Contoso Ltd,Reading,United Kingdom,15/08/2021 12:10,Active
+3080,Teamwork Administrator Associate,Certification,Lauraine,Fullun,lauraine.fullun@outlook.com,,02/09/2019 14:38,Sep-19,1,15974386,1234567,Contoso Ltd,Reading,United Kingdom,02/09/2021 14:38,Active
+3091,Azure Security Engineer Associate,Certification,Dacie,Jonas,dacie.jonas@outlook.com,,12/10/2019 02:11,Oct-19,1,4944140,1234567,Contoso Ltd,Reading,United Kingdom,12/10/2021 02:11,Active
+3079,Security Administrator Associate,Certification,Webb,Scheu,webb.scheu@outlook.com,,02/01/2020 02:41,Jan-20,1,11138691,1234567,Contoso Ltd,Reading,United Kingdom,02/01/2022 02:41,Active
+3130,Teams Administrator Associate,Certification,Alicia,Idell,alicia.idell@outlook.com,aidell@contoso.com,03/07/2020 20:11,Jul-20,1,1760465,1234567,Contoso Ltd,Reading,United Kingdom,03/07/2022 20:11,Active
+3088,Azure Data Engineer Associate,Certification,Glennis,Ahern,glennis.ahern@outlook.com,gahern@contoso.com,12/08/2020 03:00,Aug-20,1,10322669,1234567,Contoso Ltd,Reading,United Kingdom,12/08/2022 03:00,Active
+3151,Power Platform App Maker Associate,Certification,,,shelden.mcilwrath@outlook.com,smcilwrath@contoso.com,30/08/2020 17:26,Aug-20,1,8382452,1234567,Contoso Ltd,Reading,United Kingdom,30/08/2022 17:26,Active
+3087,Azure Data Scientist Associate,Certification,,,melisent.kleinert@outlook.com,mkleinert@contoso.com,07/10/2020 16:40,Oct-20,1,4055608,1234567,Contoso Ltd,Reading,United Kingdom,07/10/2022 16:40,Active
+3142,Data Analyst Associate,Certification,,,hurleigh.brunini@outlook.com,hbrunini@contoso.com,21/10/2020 14:59,Oct-20,1,15922202,1234567,Contoso Ltd,Reading,United Kingdom,21/10/2022 14:59,Active
+3143,Azure Database Administrator Associate,Certification,,,leticia.raphael@outlook.com,lraphael@contoso.com,24/10/2020 18:25,Oct-20,1,1803573,1234567,Contoso Ltd,Reading,United Kingdom,24/10/2022 18:25,Active
+3077,Azure Solutions Architect Expert,Certification,Tremayne,Snarie,tremayne.snarie@outlook.com,tsnarie@contoso.com,24/03/2019 08:45,Mar-19,1,6608656,1234567,Contoso Ltd,Reading,United Kingdom,24/09/2021 08:45,Active
+3082,Azure DevOps Engineer Expert,Certification,Oswald,Shewry,oswald.shewry@outlook.com,oshewry@contoso.com,26/01/2020 12:06,Jan-20,1,4914019,1234567,Contoso Ltd,Reading,United Kingdom,26/01/2022 12:06,Active
+3081,Enterprise Administrator Expert,Certification,Clayborne,Bayle,clayborne.bayle@outlook.com,,26/06/2020 09:54,Jun-20,1,10845724,1234567,Contoso Ltd,Reading,United Kingdom,26/06/2022 09:54,Active
+3051,Azure Administrator Associate,Certification,Evie,Hedau,evie.hedau@outlook.com,,16/12/2018 18:57,Dec-18,1,12318478,1234567,Contoso Ltd,Reading,United Kingdom,16/12/2021 18:57,Active
+3078,Azure Developer Associate,Certification,Kesley,Scandrite,kesley.scandrite@outlook.com,,19/02/2019 05:12,Feb-19,1,6583260,1234567,Contoso Ltd,Reading,United Kingdom,19/08/2021 05:12,Active
+3086,Azure AI Engineer Associate,Certification,Julietta,Trout,julietta.trout@outlook.com,,23/03/2019 12:08,Mar-19,1,834330,1234567,Contoso Ltd,Reading,United Kingdom,23/09/2021 12:08,Active
+3085,Messaging Administrator Associate,Certification,Del,Fradson,del.fradson@outlook.com,,09/09/2019 04:13,Sep-19,1,1703900,1234567,Contoso Ltd,Reading,United Kingdom,09/09/2021 04:13,Active
+3080,Teamwork Administrator Associate,Certification,,,maurise.coffey@outlook.com,mcoffey@contoso.com,17/09/2019 02:31,Sep-19,1,4613471,1234567,Contoso Ltd,Reading,United Kingdom,17/09/2021 02:31,Active
+3091,Azure Security Engineer Associate,Certification,,,eugenia.kensley@outlook.com,ekensley@contoso.com,09/09/2019 02:47,Sep-19,1,11322139,1234567,Contoso Ltd,Reading,United Kingdom,09/09/2021 02:47,Active
+3079,Security Administrator Associate,Certification,,,gerladina.candlish@outlook.com,gcandlish@contoso.com,04/01/2020 00:37,Jan-20,1,5363838,1234567,Contoso Ltd,Reading,United Kingdom,04/01/2022 00:37,Active
+3130,Teams Administrator Associate,Certification,,,felike.dhillon@outlook.com,fdhillon@contoso.com,08/07/2020 16:21,Jul-20,1,1975695,1234567,Contoso Ltd,Reading,United Kingdom,08/07/2022 16:21,Active
+3088,Azure Data Engineer Associate,Certification,,,warren.wilbraham@outlook.com,wwilbraham@contoso.com,08/07/2020 13:56,Jul-20,1,17257272,1234567,Contoso Ltd,Reading,United Kingdom,08/07/2022 13:56,Active
+3151,Power Platform App Maker Associate,Certification,,,augustus.benedite@outlook.com,abenedite@contoso.com,09/09/2020 20:01,Sep-20,1,6754468,1234567,Contoso Ltd,Reading,United Kingdom,09/09/2022 20:01,Active
+3087,Azure Data Scientist Associate,Certification,,,lynett.philippart@outlook.com,lphilippart@contoso.com,01/11/2020 11:35,Nov-20,1,1366605,1234567,Contoso Ltd,Reading,United Kingdom,01/11/2022 11:35,Active
+3142,Data Analyst Associate,Certification,Franklyn,Parkeson,franklyn.parkeson@outlook.com,,15/11/2020 08:11,Nov-20,1,13023495,1234567,Contoso Ltd,Reading,United Kingdom,15/11/2022 08:11,Active
+3143,Azure Database Administrator Associate,Certification,Valdemar,Cozzi,valdemar.cozzi@outlook.com,,29/10/2020 07:32,Oct-20,1,11756863,1234567,Contoso Ltd,Reading,United Kingdom,29/10/2022 07:32,Active
+3077,Azure Solutions Architect Expert,Certification,Sianna,Currie,sianna.currie@outlook.com,,13/04/2019 07:31,Apr-19,1,15812392,1234567,Contoso Ltd,Reading,United Kingdom,13/10/2021 07:31,Active
+3082,Azure DevOps Engineer Expert,Certification,,,lilyan.shelf@outlook.com,,15/01/2020 11:30,Jan-20,1,11877659,1234567,Contoso Ltd,Reading,United Kingdom,15/01/2022 11:30,Active
+3081,Enterprise Administrator Expert,Certification,Anjanette,Bone,anjanette.bone@outlook.com,,07/07/2020 22:43,Jul-20,1,5933351,1234567,Contoso Ltd,Reading,United Kingdom,07/07/2022 22:43,Active
+3051,Azure Administrator Associate,Certification,Hanni,Markushkin,hanni.markushkin@outlook.com,,11/01/2019 22:37,Jan-19,1,10639331,1234567,Contoso Ltd,Reading,United Kingdom,11/07/2021 22:37,Active
+3078,Azure Developer Associate,Certification,Chris,Bastone,chris.bastone@outlook.com,,17/01/2019 19:44,Jan-19,1,14888107,1234567,Contoso Ltd,Reading,United Kingdom,17/07/2021 19:44,Active
+3086,Azure AI Engineer Associate,Certification,Morlee,Edmondson,morlee.edmondson@outlook.com,medmondson@contoso.com,28/03/2019 19:40,Mar-19,1,16911184,1234567,Contoso Ltd,Reading,United Kingdom,28/10/2021 19:40,Active
+3085,Messaging Administrator Associate,Certification,Mead,Sargent,mead.sargent@outlook.com,msargent@contoso.com,28/07/2019 16:30,Jul-19,1,5796600,1234567,Contoso Ltd,Reading,United Kingdom,28/07/2021 16:30,Active
+3080,Teamwork Administrator Associate,Certification,Robinet,Maypole,robinet.maypole@outlook.com,rmaypole@contoso.com,08/09/2019 04:57,Sep-19,1,15583276,1234567,Contoso Ltd,Reading,United Kingdom,08/09/2021 04:57,Active
+3091,Azure Security Engineer Associate,Certification,,,hector.bryant@outlook.com,hbryant@contoso.com,12/09/2019 13:44,Sep-19,1,8572707,1234567,Contoso Ltd,Reading,United Kingdom,12/09/2021 13:44,Active
+3079,Security Administrator Associate,Certification,,,scarlett.cherrison@outlook.com,scherrison@contoso.com,24/01/2020 05:30,Jan-20,1,6364377,1234567,Contoso Ltd,Reading,United Kingdom,24/01/2022 05:30,Active
+3130,Teams Administrator Associate,Certification,,,korey.schlagman@outlook.com,kschlagman@contoso.com,25/07/2020 08:56,Jul-20,1,6513413,1234567,Contoso Ltd,Reading,United Kingdom,25/07/2022 08:56,Active
+3088,Azure Data Engineer Associate,Certification,Shanda,Fairbairn,shanda.fairbairn@outlook.com,sfairbairn@contoso.com,18/07/2020 00:10,Jul-20,1,7470319,1234567,Contoso Ltd,Reading,United Kingdom,18/07/2022 00:10,Active
+3151,Power Platform App Maker Associate,Certification,Alane,Livsey,alane.livsey@outlook.com,alivsey@contoso.com,07/09/2020 14:04,Sep-20,1,6409062,1234567,Contoso Ltd,Reading,United Kingdom,07/09/2022 14:04,Active
+3087,Azure Data Scientist Associate,Certification,Martie,Batch,martie.batch@outlook.com,mbatch@contoso.com,10/09/2020 13:35,Sep-20,1,2458351,1234567,Contoso Ltd,Reading,United Kingdom,10/09/2022 13:35,Active
+3142,Data Analyst Associate,Certification,,,hadlee.wigan@outlook.com,hwigan@contoso.com,22/11/2020 14:50,Nov-20,1,5496820,1234567,Contoso Ltd,Reading,United Kingdom,22/11/2022 14:50,Active
+3143,Azure Database Administrator Associate,Certification,Lauraine,Fullun,lauraine.fullun@outlook.com,,05/11/2020 07:35,Nov-20,1,15974386,1234567,Contoso Ltd,Reading,United Kingdom,05/11/2022 07:35,Active
+3077,Azure Solutions Architect Expert,Certification,Dacie,Jonas,dacie.jonas@outlook.com,,02/05/2019 08:12,May-19,1,4944140,1234567,Contoso Ltd,Reading,United Kingdom,02/11/2021 08:12,Active
+3082,Azure DevOps Engineer Expert,Certification,Webb,Scheu,webb.scheu@outlook.com,,14/12/2019 19:23,Dec-19,1,11138691,1234567,Contoso Ltd,Reading,United Kingdom,14/12/2021 19:23,Active
+3081,Enterprise Administrator Expert,Certification,Alicia,Idell,alicia.idell@outlook.com,aidell@contoso.com,22/07/2020 04:56,Jul-20,1,1760465,1234567,Contoso Ltd,Reading,United Kingdom,22/07/2022 04:56,Active
+3051,Azure Administrator Associate,Certification,Glennis,Ahern,glennis.ahern@outlook.com,gahern@contoso.com,13/01/2019 22:38,Jan-19,1,10322669,1234567,Contoso Ltd,Reading,United Kingdom,13/07/2021 22:38,Active
+3078,Azure Developer Associate,Certification,,,shelden.mcilwrath@outlook.com,smcilwrath@contoso.com,21/02/2019 17:43,Feb-19,1,8382452,1234567,Contoso Ltd,Reading,United Kingdom,21/08/2021 17:43,Active
+3086,Azure AI Engineer Associate,Certification,,,melisent.kleinert@outlook.com,mkleinert@contoso.com,18/04/2019 04:27,Apr-19,1,4055608,1234567,Contoso Ltd,Reading,United Kingdom,18/10/2021 04:27,Active
+3085,Messaging Administrator Associate,Certification,,,hurleigh.brunini@outlook.com,hbrunini@contoso.com,02/09/2019 20:11,Sep-19,1,15922202,1234567,Contoso Ltd,Reading,United Kingdom,02/09/2021 20:11,Active
+3080,Teamwork Administrator Associate,Certification,,,leticia.raphael@outlook.com,lraphael@contoso.com,17/10/2019 00:29,Oct-19,1,1803573,1234567,Contoso Ltd,Reading,United Kingdom,17/10/2021 00:29,Active
+3091,Azure Security Engineer Associate,Certification,Tremayne,Snarie,tremayne.snarie@outlook.com,tsnarie@contoso.com,01/10/2019 20:31,Oct-19,1,6608656,1234567,Contoso Ltd,Reading,United Kingdom,01/10/2021 20:31,Active
+3079,Security Administrator Associate,Certification,Oswald,Shewry,oswald.shewry@outlook.com,oshewry@contoso.com,14/02/2020 23:28,Feb-20,1,4914019,1234567,Contoso Ltd,Reading,United Kingdom,14/02/2022 23:28,Active
+3130,Teams Administrator Associate,Certification,Clayborne,Bayle,clayborne.bayle@outlook.com,,27/06/2020 12:56,Jun-20,1,10845724,1234567,Contoso Ltd,Reading,United Kingdom,27/06/2022 12:56,Active
+3088,Azure Data Engineer Associate,Certification,Evie,Hedau,evie.hedau@outlook.com,,28/07/2020 21:21,Jul-20,1,12318478,1234567,Contoso Ltd,Reading,United Kingdom,28/07/2022 21:21,Active
+3151,Power Platform App Maker Associate,Certification,Kesley,Scandrite,kesley.scandrite@outlook.com,,03/09/2020 04:10,Sep-20,1,6583260,1234567,Contoso Ltd,Reading,United Kingdom,03/09/2022 04:10,Active
+3087,Azure Data Scientist Associate,Certification,Julietta,Trout,julietta.trout@outlook.com,,06/10/2020 07:30,Oct-20,1,834330,1234567,Contoso Ltd,Reading,United Kingdom,06/10/2022 07:30,Active
+3142,Data Analyst Associate,Certification,Del,Fradson,del.fradson@outlook.com,,31/10/2020 11:54,Oct-20,1,1703900,1234567,Contoso Ltd,Reading,United Kingdom,31/10/2022 11:54,Active
+3143,Azure Database Administrator Associate,Certification,,,maurise.coffey@outlook.com,mcoffey@contoso.com,07/11/2020 09:30,Nov-20,1,4613471,1234567,Contoso Ltd,Reading,United Kingdom,07/11/2022 09:30,Active
+3077,Azure Solutions Architect Expert,Certification,,,eugenia.kensley@outlook.com,ekensley@contoso.com,28/03/2019 17:46,Mar-19,1,11322139,1234567,Contoso Ltd,Reading,United Kingdom,28/09/2021 17:46,Active
+3082,Azure DevOps Engineer Expert,Certification,,,gerladina.candlish@outlook.com,gcandlish@contoso.com,20/01/2020 20:58,Jan-20,1,5363838,1234567,Contoso Ltd,Reading,United Kingdom,20/01/2022 20:58,Active
+3081,Enterprise Administrator Expert,Certification,,,felike.dhillon@outlook.com,fdhillon@contoso.com,27/06/2020 10:04,Jun-20,1,1975695,1234567,Contoso Ltd,Reading,United Kingdom,27/06/2022 10:04,Active
+3051,Azure Administrator Associate,Certification,,,warren.wilbraham@outlook.com,wwilbraham@contoso.com,02/12/2018 14:35,Dec-18,1,17257272,1234567,Contoso Ltd,Reading,United Kingdom,02/12/2021 14:35,Active
+3078,Azure Developer Associate,Certification,,,augustus.benedite@outlook.com,abenedite@contoso.com,20/01/2019 00:48,Jan-19,1,6754468,1234567,Contoso Ltd,Reading,United Kingdom,20/07/2021 00:48,Active
+3086,Azure AI Engineer Associate,Certification,,,lynett.philippart@outlook.com,lphilippart@contoso.com,20/04/2019 01:45,Apr-19,1,1366605,1234567,Contoso Ltd,Reading,United Kingdom,20/10/2021 01:45,Active
+3085,Messaging Administrator Associate,Certification,Franklyn,Parkeson,franklyn.parkeson@outlook.com,,03/08/2019 21:07,Aug-19,1,13023495,1234567,Contoso Ltd,Reading,United Kingdom,03/08/2021 21:07,Active
+3080,Teamwork Administrator Associate,Certification,Valdemar,Cozzi,valdemar.cozzi@outlook.com,,06/09/2019 19:04,Sep-19,1,11756863,1234567,Contoso Ltd,Reading,United Kingdom,06/09/2021 19:04,Active
+3091,Azure Security Engineer Associate,Certification,Sianna,Currie,sianna.currie@outlook.com,,27/09/2019 02:13,Sep-19,1,15812392,1234567,Contoso Ltd,Reading,United Kingdom,27/09/2021 02:13,Active
+3079,Security Administrator Associate,Certification,,,lilyan.shelf@outlook.com,,30/01/2020 12:53,Jan-20,1,11877659,1234567,Contoso Ltd,Reading,United Kingdom,30/01/2022 12:53,Active
+3130,Teams Administrator Associate,Certification,Anjanette,Bone,anjanette.bone@outlook.com,,14/08/2020 16:18,Aug-20,1,5933351,1234567,Contoso Ltd,Reading,United Kingdom,14/08/2022 16:18,Active
+3088,Azure Data Engineer Associate,Certification,Hanni,Markushkin,hanni.markushkin@outlook.com,,22/08/2020 05:13,Aug-20,1,10639331,1234567,Contoso Ltd,Reading,United Kingdom,22/08/2022 05:13,Active
+3151,Power Platform App Maker Associate,Certification,Chris,Bastone,chris.bastone@outlook.com,,13/08/2020 08:38,Aug-20,1,14888107,1234567,Contoso Ltd,Reading,United Kingdom,13/08/2022 08:38,Active
+3087,Azure Data Scientist Associate,Certification,Morlee,Edmondson,morlee.edmondson@outlook.com,medmondson@contoso.com,20/10/2020 05:07,Oct-20,1,16911184,1234567,Contoso Ltd,Reading,United Kingdom,20/10/2022 05:07,Active
+3142,Data Analyst Associate,Certification,Mead,Sargent,mead.sargent@outlook.com,msargent@contoso.com,21/11/2020 11:54,Nov-20,1,5796600,1234567,Contoso Ltd,Reading,United Kingdom,21/11/2022 11:54,Active
+3143,Azure Database Administrator Associate,Certification,Robinet,Maypole,robinet.maypole@outlook.com,rmaypole@contoso.com,11/10/2020 15:37,Oct-20,1,15583276,1234567,Contoso Ltd,Reading,United Kingdom,11/10/2022 15:37,Active
+3077,Azure Solutions Architect Expert,Certification,,,hector.bryant@outlook.com,hbryant@contoso.com,07/04/2019 16:21,Apr-19,1,8572707,1234567,Contoso Ltd,Reading,United Kingdom,07/10/2021 16:21,Active
+3082,Azure DevOps Engineer Expert,Certification,,,scarlett.cherrison@outlook.com,scherrison@contoso.com,12/12/2019 15:14,Dec-19,1,6364377,1234567,Contoso Ltd,Reading,United Kingdom,12/12/2021 15:14,Active
+3081,Enterprise Administrator Expert,Certification,,,korey.schlagman@outlook.com,kschlagman@contoso.com,03/08/2020 00:34,Aug-20,1,6513413,1234567,Contoso Ltd,Reading,United Kingdom,03/08/2022 00:34,Active
+3051,Azure Administrator Associate,Certification,Keeley,Howship,keeley.howship@outlook.com,khowship@contoso.com,08/12/2018 04:37,Dec-18,1,689300,1234567,Contoso Ltd,Reading,United Kingdom,08/12/2021 04:37,Active
+3078,Azure Developer Associate,Certification,Brose,McGirl,brose.mcgirl@outlook.com,bmcgirl@contoso.com,30/01/2019 18:25,Jan-19,1,10679768,1234567,Contoso Ltd,Reading,United Kingdom,30/07/2021 18:25,Active
+3086,Azure AI Engineer Associate,Certification,Shanda,Fairbairn,shanda.fairbairn@outlook.com,sfairbairn@contoso.com,06/04/2019 04:02,Apr-19,1,7470319,1234567,Contoso Ltd,Reading,United Kingdom,06/10/2021 04:02,Active
+3085,Messaging Administrator Associate,Certification,Alane,Livsey,alane.livsey@outlook.com,alivsey@contoso.com,02/08/2019 19:51,Aug-19,1,6409062,1234567,Contoso Ltd,Reading,United Kingdom,02/08/2021 19:51,Active
+3080,Teamwork Administrator Associate,Certification,Martie,Batch,martie.batch@outlook.com,mbatch@contoso.com,08/09/2019 10:44,Sep-19,1,2458351,1234567,Contoso Ltd,Reading,United Kingdom,08/09/2021 10:44,Active
+3091,Azure Security Engineer Associate,Certification,,,hadlee.wigan@outlook.com,hwigan@contoso.com,16/09/2019 00:36,Sep-19,1,5496820,1234567,Contoso Ltd,Reading,United Kingdom,16/09/2021 00:36,Active
+3079,Security Administrator Associate,Certification,Lauraine,Fullun,lauraine.fullun@outlook.com,,25/12/2019 17:11,Dec-19,1,15974386,1234567,Contoso Ltd,Reading,United Kingdom,25/12/2021 17:11,Active
+3130,Teams Administrator Associate,Certification,Dacie,Jonas,dacie.jonas@outlook.com,,06/07/2020 13:28,Jul-20,1,4944140,1234567,Contoso Ltd,Reading,United Kingdom,06/07/2022 13:28,Active
+3088,Azure Data Engineer Associate,Certification,Webb,Scheu,webb.scheu@outlook.com,,15/07/2020 07:20,Jul-20,1,11138691,1234567,Contoso Ltd,Reading,United Kingdom,15/07/2022 07:20,Active
+3151,Power Platform App Maker Associate,Certification,Alicia,Idell,alicia.idell@outlook.com,aidell@contoso.com,13/09/2020 14:32,Sep-20,1,1760465,1234567,Contoso Ltd,Reading,United Kingdom,13/09/2022 14:32,Active
+3087,Azure Data Scientist Associate,Certification,Glennis,Ahern,glennis.ahern@outlook.com,gahern@contoso.com,20/09/2020 21:07,Sep-20,1,10322669,1234567,Contoso Ltd,Reading,United Kingdom,20/09/2022 21:07,Active
+3142,Data Analyst Associate,Certification,,,shelden.mcilwrath@outlook.com,smcilwrath@contoso.com,06/11/2020 00:14,Nov-20,1,8382452,1234567,Contoso Ltd,Reading,United Kingdom,06/11/2022 00:14,Active
+3143,Azure Database Administrator Associate,Certification,,,melisent.kleinert@outlook.com,mkleinert@contoso.com,02/11/2020 17:09,Nov-20,1,4055608,1234567,Contoso Ltd,Reading,United Kingdom,02/11/2022 17:09,Active
+3077,Azure Solutions Architect Expert,Certification,,,hurleigh.brunini@outlook.com,hbrunini@contoso.com,21/04/2019 13:09,Apr-19,1,15922202,1234567,Contoso Ltd,Reading,United Kingdom,21/10/2021 13:09,Active
+3082,Azure DevOps Engineer Expert,Certification,,,leticia.raphael@outlook.com,lraphael@contoso.com,03/01/2020 07:25,Jan-20,1,1803573,1234567,Contoso Ltd,Reading,United Kingdom,03/01/2022 07:25,Active
+3081,Enterprise Administrator Expert,Certification,Tremayne,Snarie,tremayne.snarie@outlook.com,tsnarie@contoso.com,27/07/2020 05:32,Jul-20,1,6608656,1234567,Contoso Ltd,Reading,United Kingdom,27/07/2022 05:32,Active
+3051,Azure Administrator Associate,Certification,Oswald,Shewry,oswald.shewry@outlook.com,oshewry@contoso.com,27/12/2018 00:48,Dec-18,1,4914019,1234567,Contoso Ltd,Reading,United Kingdom,27/12/2021 00:48,Active
+3078,Azure Developer Associate,Certification,Clayborne,Bayle,clayborne.bayle@outlook.com,,04/01/2019 06:03,Jan-19,1,10845724,1234567,Contoso Ltd,Reading,United Kingdom,04/07/2021 06:03,Active
+3086,Azure AI Engineer Associate,Certification,Evie,Hedau,evie.hedau@outlook.com,,30/04/2019 13:48,Apr-19,1,12318478,1234567,Contoso Ltd,Reading,United Kingdom,30/10/2021 13:48,Active
+3085,Messaging Administrator Associate,Certification,Kesley,Scandrite,kesley.scandrite@outlook.com,,24/08/2019 22:04,Aug-19,1,6583260,1234567,Contoso Ltd,Reading,United Kingdom,24/08/2021 22:04,Active
+3080,Teamwork Administrator Associate,Certification,Julietta,Trout,julietta.trout@outlook.com,,11/09/2019 20:22,Sep-19,1,834330,1234567,Contoso Ltd,Reading,United Kingdom,11/09/2021 20:22,Active
+3091,Azure Security Engineer Associate,Certification,Del,Fradson,del.fradson@outlook.com,,25/09/2019 13:15,Sep-19,1,1703900,1234567,Contoso Ltd,Reading,United Kingdom,25/09/2021 13:15,Active
+3079,Security Administrator Associate,Certification,,,maurise.coffey@outlook.com,mcoffey@contoso.com,09/01/2020 01:36,Jan-20,1,4613471,1234567,Contoso Ltd,Reading,United Kingdom,09/01/2022 01:36,Active
+3130,Teams Administrator Associate,Certification,,,eugenia.kensley@outlook.com,ekensley@contoso.com,11/08/2020 15:35,Aug-20,1,11322139,1234567,Contoso Ltd,Reading,United Kingdom,11/08/2022 15:35,Active
+3088,Azure Data Engineer Associate,Certification,,,gerladina.candlish@outlook.com,gcandlish@contoso.com,22/07/2020 23:50,Jul-20,1,5363838,1234567,Contoso Ltd,Reading,United Kingdom,22/07/2022 23:50,Active
+3151,Power Platform App Maker Associate,Certification,,,felike.dhillon@outlook.com,fdhillon@contoso.com,20/09/2020 17:11,Sep-20,1,1975695,1234567,Contoso Ltd,Reading,United Kingdom,20/09/2022 17:11,Active
+3087,Azure Data Scientist Associate,Certification,,,warren.wilbraham@outlook.com,wwilbraham@contoso.com,21/09/2020 03:20,Sep-20,1,17257272,1234567,Contoso Ltd,Reading,United Kingdom,21/09/2022 03:20,Active
+3142,Data Analyst Associate,Certification,,,augustus.benedite@outlook.com,abenedite@contoso.com,21/11/2020 21:44,Nov-20,1,6754468,1234567,Contoso Ltd,Reading,United Kingdom,21/11/2022 21:44,Active
+3143,Azure Database Administrator Associate,Certification,,,lynett.philippart@outlook.com,lphilippart@contoso.com,07/11/2020 22:10,Nov-20,1,1366605,1234567,Contoso Ltd,Reading,United Kingdom,07/11/2022 22:10,Active
+3077,Azure Solutions Architect Expert,Certification,Franklyn,Parkeson,franklyn.parkeson@outlook.com,,29/03/2019 10:10,Mar-19,1,13023495,1234567,Contoso Ltd,Reading,United Kingdom,29/09/2021 10:10,Active
+3082,Azure DevOps Engineer Expert,Certification,Valdemar,Cozzi,valdemar.cozzi@outlook.com,,06/12/2019 16:00,Dec-19,1,11756863,1234567,Contoso Ltd,Reading,United Kingdom,06/12/2021 16:00,Active
+3081,Enterprise Administrator Expert,Certification,Sianna,Currie,sianna.currie@outlook.com,,08/06/2020 01:28,Jun-20,1,15812392,1234567,Contoso Ltd,Reading,United Kingdom,08/06/2022 01:28,Active
+3051,Azure Administrator Associate,Certification,,,lilyan.shelf@outlook.com,,02/12/2018 03:12,Dec-18,1,11877659,1234567,Contoso Ltd,Reading,United Kingdom,02/12/2021 03:12,Active
+3078,Azure Developer Associate,Certification,Anjanette,Bone,anjanette.bone@outlook.com,,04/02/2019 07:29,Feb-19,1,5933351,1234567,Contoso Ltd,Reading,United Kingdom,04/08/2021 07:29,Active
+3086,Azure AI Engineer Associate,Certification,Hanni,Markushkin,hanni.markushkin@outlook.com,,09/03/2019 02:20,Mar-19,1,10639331,1234567,Contoso Ltd,Reading,United Kingdom,09/09/2021 02:20,Active
+3085,Messaging Administrator Associate,Certification,Chris,Bastone,chris.bastone@outlook.com,,17/09/2019 19:42,Sep-19,1,14888107,1234567,Contoso Ltd,Reading,United Kingdom,17/09/2021 19:42,Active
+3080,Teamwork Administrator Associate,Certification,Morlee,Edmondson,morlee.edmondson@outlook.com,medmondson@contoso.com,27/09/2019 06:00,Sep-19,1,16911184,1234567,Contoso Ltd,Reading,United Kingdom,27/09/2021 06:00,Active
+3091,Azure Security Engineer Associate,Certification,Mead,Sargent,mead.sargent@outlook.com,msargent@contoso.com,09/10/2019 14:26,Oct-19,1,5796600,1234567,Contoso Ltd,Reading,United Kingdom,09/10/2021 14:26,Active
+3079,Security Administrator Associate,Certification,Robinet,Maypole,robinet.maypole@outlook.com,rmaypole@contoso.com,03/02/2020 22:46,Feb-20,1,15583276,1234567,Contoso Ltd,Reading,United Kingdom,03/02/2022 22:46,Active
+3130,Teams Administrator Associate,Certification,,,hector.bryant@outlook.com,hbryant@contoso.com,17/08/2020 10:24,Aug-20,1,8572707,1234567,Contoso Ltd,Reading,United Kingdom,17/08/2022 10:24,Active
+3088,Azure Data Engineer Associate,Certification,,,scarlett.cherrison@outlook.com,scherrison@contoso.com,09/07/2020 01:36,Jul-20,1,6364377,1234567,Contoso Ltd,Reading,United Kingdom,09/07/2022 01:36,Active
+3151,Power Platform App Maker Associate,Certification,,,korey.schlagman@outlook.com,kschlagman@contoso.com,31/08/2020 16:54,Aug-20,1,6513413,1234567,Contoso Ltd,Reading,United Kingdom,31/08/2022 16:54,Active
+3087,Azure Data Scientist Associate,Certification,Keeley,Howship,keeley.howship@outlook.com,khowship@contoso.com,01/11/2020 05:29,Nov-20,1,689300,1234567,Contoso Ltd,Reading,United Kingdom,01/11/2022 05:29,Active
+3142,Data Analyst Associate,Certification,Brose,McGirl,brose.mcgirl@outlook.com,bmcgirl@contoso.com,10/10/2020 03:11,Oct-20,1,10679768,1234567,Contoso Ltd,Reading,United Kingdom,10/10/2022 03:11,Active
+3143,Azure Database Administrator Associate,Certification,Shanda,Fairbairn,shanda.fairbairn@outlook.com,sfairbairn@contoso.com,17/10/2020 19:35,Oct-20,1,7470319,1234567,Contoso Ltd,Reading,United Kingdom,17/10/2022 19:35,Active
+3077,Azure Solutions Architect Expert,Certification,Alane,Livsey,alane.livsey@outlook.com,alivsey@contoso.com,30/03/2019 10:55,Mar-19,1,6409062,1234567,Contoso Ltd,Reading,United Kingdom,30/09/2021 10:55,Active
+3082,Azure DevOps Engineer Expert,Certification,Martie,Batch,martie.batch@outlook.com,mbatch@contoso.com,01/12/2019 20:54,Dec-19,1,2458351,1234567,Contoso Ltd,Reading,United Kingdom,01/06/2022 20:54,Active
+3081,Enterprise Administrator Expert,Certification,,,hadlee.wigan@outlook.com,hwigan@contoso.com,11/07/2020 11:53,Jul-20,1,5496820,1234567,Contoso Ltd,Reading,United Kingdom,11/07/2022 11:53,Active
+3051,Azure Administrator Associate,Certification,Lauraine,Fullun,lauraine.fullun@outlook.com,,27/12/2018 13:30,Dec-18,1,15974386,1234567,Contoso Ltd,Reading,United Kingdom,27/12/2021 13:30,Active
+3078,Azure Developer Associate,Certification,Dacie,Jonas,dacie.jonas@outlook.com,,29/01/2019 04:33,Jan-19,1,4944140,1234567,Contoso Ltd,Reading,United Kingdom,29/07/2021 04:33,Active
+3086,Azure AI Engineer Associate,Certification,Webb,Scheu,webb.scheu@outlook.com,,10/04/2019 01:40,Apr-19,1,11138691,1234567,Contoso Ltd,Reading,United Kingdom,10/10/2021 01:40,Active
+3085,Messaging Administrator Associate,Certification,Alicia,Idell,alicia.idell@outlook.com,aidell@contoso.com,21/08/2019 02:35,Aug-19,1,1760465,1234567,Contoso Ltd,Reading,United Kingdom,21/08/2021 02:35,Active
+3080,Teamwork Administrator Associate,Certification,Glennis,Ahern,glennis.ahern@outlook.com,gahern@contoso.com,09/09/2019 12:29,Sep-19,1,10322669,1234567,Contoso Ltd,Reading,United Kingdom,09/09/2021 12:29,Active
+3091,Azure Security Engineer Associate,Certification,,,shelden.mcilwrath@outlook.com,smcilwrath@contoso.com,25/09/2019 10:21,Sep-19,1,8382452,1234567,Contoso Ltd,Reading,United Kingdom,25/09/2021 10:21,Active
+3079,Security Administrator Associate,Certification,,,melisent.kleinert@outlook.com,mkleinert@contoso.com,22/01/2020 11:13,Jan-20,1,4055608,1234567,Contoso Ltd,Reading,United Kingdom,22/01/2022 11:13,Active
+3130,Teams Administrator Associate,Certification,,,hurleigh.brunini@outlook.com,hbrunini@contoso.com,10/07/2020 05:23,Jul-20,1,15922202,1234567,Contoso Ltd,Reading,United Kingdom,10/07/2022 05:23,Active
+3088,Azure Data Engineer Associate,Certification,,,leticia.raphael@outlook.com,lraphael@contoso.com,14/08/2020 19:07,Aug-20,1,1803573,1234567,Contoso Ltd,Reading,United Kingdom,14/08/2022 19:07,Active
+3151,Power Platform App Maker Associate,Certification,Tremayne,Snarie,tremayne.snarie@outlook.com,tsnarie@contoso.com,14/08/2020 15:04,Aug-20,1,6608656,1234567,Contoso Ltd,Reading,United Kingdom,14/08/2022 15:04,Active
+3087,Azure Data Scientist Associate,Certification,Oswald,Shewry,oswald.shewry@outlook.com,oshewry@contoso.com,30/10/2020 23:28,Oct-20,1,4914019,1234567,Contoso Ltd,Reading,United Kingdom,30/10/2022 23:28,Active
+3142,Data Analyst Associate,Certification,Clayborne,Bayle,clayborne.bayle@outlook.com,,26/10/2020 07:24,Oct-20,1,10845724,1234567,Contoso Ltd,Reading,United Kingdom,26/10/2022 07:24,Active
+3143,Azure Database Administrator Associate,Certification,Evie,Hedau,evie.hedau@outlook.com,,09/11/2020 05:15,Nov-20,1,12318478,1234567,Contoso Ltd,Reading,United Kingdom,09/11/2022 05:15,Active
+3077,Azure Solutions Architect Expert,Certification,Kesley,Scandrite,kesley.scandrite@outlook.com,,30/04/2019 14:10,Apr-19,1,6583260,1234567,Contoso Ltd,Reading,United Kingdom,30/10/2021 14:10,Active
+3082,Azure DevOps Engineer Expert,Certification,Julietta,Trout,julietta.trout@outlook.com,,28/01/2020 19:32,Jan-20,1,834330,1234567,Contoso Ltd,Reading,United Kingdom,28/01/2022 19:32,Active
+3081,Enterprise Administrator Expert,Certification,Del,Fradson,del.fradson@outlook.com,,03/08/2020 22:59,Aug-20,1,1703900,1234567,Contoso Ltd,Reading,United Kingdom,03/08/2022 22:59,Active
+3051,Azure Administrator Associate,Certification,,,maurise.coffey@outlook.com,mcoffey@contoso.com,05/12/2018 00:03,Dec-18,1,4613471,1234567,Contoso Ltd,Reading,United Kingdom,05/12/2021 00:03,Active
+3078,Azure Developer Associate,Certification,,,eugenia.kensley@outlook.com,ekensley@contoso.com,25/01/2019 10:56,Jan-19,1,11322139,1234567,Contoso Ltd,Reading,United Kingdom,25/07/2021 10:56,Active
+3086,Azure AI Engineer Associate,Certification,,,gerladina.candlish@outlook.com,gcandlish@contoso.com,22/04/2019 21:58,Apr-19,1,5363838,1234567,Contoso Ltd,Reading,United Kingdom,22/10/2021 21:58,Active
+3085,Messaging Administrator Associate,Certification,,,felike.dhillon@outlook.com,fdhillon@contoso.com,21/09/2019 00:31,Sep-19,1,1975695,1234567,Contoso Ltd,Reading,United Kingdom,21/09/2021 00:31,Active
+3080,Teamwork Administrator Associate,Certification,,,warren.wilbraham@outlook.com,wwilbraham@contoso.com,21/09/2019 00:07,Sep-19,1,17257272,1234567,Contoso Ltd,Reading,United Kingdom,21/09/2021 00:07,Active
+3091,Azure Security Engineer Associate,Certification,,,augustus.benedite@outlook.com,abenedite@contoso.com,14/09/2019 20:11,Sep-19,1,6754468,1234567,Contoso Ltd,Reading,United Kingdom,14/09/2021 20:11,Active
+3079,Security Administrator Associate,Certification,,,lynett.philippart@outlook.com,lphilippart@contoso.com,21/12/2019 10:42,Dec-19,1,1366605,1234567,Contoso Ltd,Reading,United Kingdom,21/12/2021 10:42,Active
+3130,Teams Administrator Associate,Certification,Franklyn,Parkeson,franklyn.parkeson@outlook.com,,02/07/2020 10:21,Jul-20,1,13023495,1234567,Contoso Ltd,Reading,United Kingdom,02/07/2022 10:21,Active
+3088,Azure Data Engineer Associate,Certification,Valdemar,Cozzi,valdemar.cozzi@outlook.com,,21/07/2020 23:53,Jul-20,1,11756863,1234567,Contoso Ltd,Reading,United Kingdom,21/07/2022 23:53,Active
+3151,Power Platform App Maker Associate,Certification,Sianna,Currie,sianna.currie@outlook.com,,01/09/2020 23:46,Sep-20,1,15812392,1234567,Contoso Ltd,Reading,United Kingdom,01/09/2022 23:46,Active
+3087,Azure Data Scientist Associate,Certification,,,lilyan.shelf@outlook.com,,13/09/2020 23:08,Sep-20,1,11877659,1234567,Contoso Ltd,Reading,United Kingdom,13/09/2022 23:08,Active
+3142,Data Analyst Associate,Certification,Anjanette,Bone,anjanette.bone@outlook.com,,18/10/2020 07:08,Oct-20,1,5933351,1234567,Contoso Ltd,Reading,United Kingdom,18/10/2022 07:08,Active
+3143,Azure Database Administrator Associate,Certification,Hanni,Markushkin,hanni.markushkin@outlook.com,,13/11/2020 05:17,Nov-20,1,10639331,1234567,Contoso Ltd,Reading,United Kingdom,13/11/2022 05:17,Active
+3077,Azure Solutions Architect Expert,Certification,Chris,Bastone,chris.bastone@outlook.com,,16/03/2019 11:19,Mar-19,1,14888107,1234567,Contoso Ltd,Reading,United Kingdom,16/09/2021 11:19,Active
+3082,Azure DevOps Engineer Expert,Certification,Morlee,Edmondson,morlee.edmondson@outlook.com,medmondson@contoso.com,19/12/2019 22:57,Dec-19,1,16911184,1234567,Contoso Ltd,Reading,United Kingdom,19/12/2021 22:57,Active
+3081,Enterprise Administrator Expert,Certification,Mead,Sargent,mead.sargent@outlook.com,msargent@contoso.com,20/07/2020 01:04,Jul-20,1,5796600,1234567,Contoso Ltd,Reading,United Kingdom,20/07/2022 01:04,Active
