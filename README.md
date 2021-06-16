@@ -2,7 +2,7 @@
 
 [CertRenew.zip | Version 0.3 beta | .ZIP archive | Windows x64](https://github.com/guygregory/certrenew/releases/latest/download/CertRenew.zip)
 
-**Now supports the updated training report format!** (June 17th 2021 version)
+**Now supports the updated training report format!** (June 17th 2021 or later)
 ![image](https://user-images.githubusercontent.com/16044916/122179947-e39fc800-ce7f-11eb-893d-387cc0aa9d47.png)
 
 # Certification Renewal Report for Microsoft Partners
