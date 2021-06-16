@@ -1,6 +1,6 @@
 # Download the latest version!
 
-[CertRenew.zip | Version 0.2 beta | .ZIP archive | Windows x64](https://github.com/guygregory/certrenew/releases/latest/download/CertRenew.zip)
+[CertRenew.zip | Version 0.3 beta | .ZIP archive | Windows x64](https://github.com/guygregory/certrenew/releases/latest/download/CertRenew.zip)
 
 # Certification Renewal Report for Microsoft Partners
 
